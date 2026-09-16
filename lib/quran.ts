@@ -3,7 +3,7 @@
 
 const QF = 'https://api.quran.com/api/v4';
 const AQ = 'https://api.alquran.cloud/v1';
-export const RECITER_ID = 7; // Saad Al-Ghamdi (chapter recitations)
+export const RECITER_ID = 13; // Saad al-Ghamdi (chapter recitations). NB: 7 is Mishari al-Afasy.
 export const IBN_KATHIR_ID = 169; // Tafsir Ibn Kathir (abridged), English
 
 const opts = { next: { revalidate: 86400 } } as const;
@@ -24,14 +24,14 @@ export type Ayah = {
   from: number | null; to: number | null; segs: number[][];
 };
 
-export type SurahBundle = { chapter: Chapter; audioUrl: string | null; ayahs: Ayah[] };
+export type SurahBundle = { chapter: Chapter; reciter: string; audioUrl: string | null; hasWordTiming: boolean; ayahs: Ayah[] };
 
-export async function getSurahBundle(n: number): Promise<SurahBundle> {
+export async function getSurahBundle(n: number, reciter = RECITER_ID): Promise<SurahBundle> {
   const [chapters, vRes, tRes, aRes] = await Promise.all([
     getChapters(),
     fetch(`${QF}/verses/by_chapter/${n}?language=en&words=true&word_fields=text_uthmani&fields=text_uthmani&per_page=300`, opts),
     fetch(`${AQ}/surah/${n}/en.sahih`, opts),
-    fetch(`${QF}/chapter_recitations/${RECITER_ID}/${n}?segments=true`, opts),
+    fetch(`${QF}/chapter_recitations/${reciter}/${n}?segments=true`, opts),
   ]);
   const chapter = chapters.find(c => c.id === n)!;
   const v = await vRes.json();
@@ -44,9 +44,13 @@ export async function getSurahBundle(n: number): Promise<SurahBundle> {
   const ts: Record<string, any> = {};
   (a.audio_file?.timestamps || []).forEach((x: any) => { ts[x.verse_key] = x; });
 
+  let hasWordTiming = false;
   const ayahs: Ayah[] = (v.verses || []).map((x: any) => {
     const words = (x.words || []).filter((w: any) => w.char_type_name !== 'end').map((w: any) => w.text_uthmani || w.text);
     const tt = ts[x.verse_key];
+    // keep only well-formed [word_index, start, end] triples
+    const segs: number[][] = tt ? (tt.segments || []).filter((s: any) => Array.isArray(s) && s.length >= 3) : [];
+    if (segs.length) hasWordTiming = true;
     return {
       key: x.verse_key,
       numberInSurah: x.verse_number,
@@ -55,11 +59,11 @@ export async function getSurahBundle(n: number): Promise<SurahBundle> {
       english: trans[x.verse_number] || '',
       from: tt ? tt.timestamp_from : null,
       to: tt ? tt.timestamp_to : null,
-      segs: tt ? (tt.segments || []) : [],
+      segs,
     };
   });
 
-  return { chapter, audioUrl: a.audio_file?.audio_url || null, ayahs };
+  return { chapter, reciter: String(reciter), audioUrl: a.audio_file?.audio_url || null, hasWordTiming, ayahs };
 }
 
 export async function getIbnKathir(surah: number, ayah: number): Promise<string> {
