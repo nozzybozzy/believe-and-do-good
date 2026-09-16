@@ -1,0 +1,31 @@
+.qp { position: fixed; inset: 0; top: 0; background: #000; color: #fff; overflow: hidden; }
+.qp-bg { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: .55; }
+.qp-overlay { position: absolute; inset: 0; background: linear-gradient(to bottom, rgba(0,0,0,.6) 0%, transparent 28%, transparent 50%, rgba(0,0,0,.9) 100%); pointer-events: none; }
+.qp-header { position: absolute; top: 70px; left: 0; padding: 20px 28px; z-index: 10; }
+.qp-snum { font-size: 11px; letter-spacing: 2px; text-transform: uppercase; color: rgba(255,255,255,.5); margin-bottom: 4px; }
+.qp-sar { font-size: 30px; font-weight: 700; line-height: 1.2; text-align: left; direction: ltr; }
+.qp-sen { font-size: 13px; color: rgba(255,255,255,.65); }
+.qp-text { position: absolute; bottom: 110px; left: 0; right: 0; z-index: 10; padding: 0 5%; text-align: center; }
+.qp-arabic { font-size: 38px; line-height: 1.8; display: flex; flex-wrap: wrap; justify-content: center; align-items: baseline; gap: 6px 10px; margin-bottom: 10px; min-height: 70px; }
+.qp-word { color: rgba(255,255,255,.7); transition: color .15s, text-shadow .15s; }
+.qp-word.active { color: #ffe082; text-shadow: 0 0 20px rgba(255,210,80,.6); }
+.qp-badge { font-family: system-ui, sans-serif; font-size: 14px; color: rgba(255,200,80,.75); background: rgba(255,255,255,.1); border-radius: 50%; width: 28px; height: 28px; display: inline-flex; align-items: center; justify-content: center; direction: ltr; }
+.qp-english { font-size: 28px; color: rgba(255,255,255,.6); font-style: italic; line-height: 1.6; max-width: 880px; margin: 0 auto; }
+.qp-controls { position: absolute; bottom: 0; left: 0; right: 0; z-index: 10; padding: 12px 24px 20px; display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.qp-btns { display: flex; align-items: center; gap: 8px; }
+.qp-btn { background: none; border: none; cursor: pointer; color: #fff; opacity: .75; padding: 6px; display: flex; border-radius: 50%; }
+.qp-btn:hover { opacity: 1; background: rgba(255,255,255,.1); }
+.qp-btn svg { width: 26px; height: 26px; fill: currentColor; }
+.qp-btn.play svg { width: 44px; height: 44px; }
+.qp-select { background: rgba(0,0,0,.5); border: 1px solid rgba(255,255,255,.18); color: #fff; padding: 6px 10px; border-radius: 8px; font-size: 12px; max-width: 190px; }
+.qp-select option { background: #111; }
+.qp-right { display: flex; align-items: center; gap: 8px; }
+.qp-upload { cursor: pointer; background: rgba(255,255,255,.08); border: 1px solid rgba(255,255,255,.18); color: #fff; padding: 6px 12px; border-radius: 8px; font-size: 11px; white-space: nowrap; }
+.qp-dl { background: rgba(255,200,80,.12); border: 1px solid rgba(255,200,80,.35); color: rgba(255,210,100,.9); padding: 6px 12px; border-radius: 8px; font-size: 11px; cursor: pointer; display: flex; align-items: center; gap: 5px; white-space: nowrap; }
+.qp-dl:disabled { opacity: .35; cursor: not-allowed; }
+.qp-status { position: absolute; bottom: 2px; left: 50%; transform: translateX(-50%); font-size: 10px; color: rgba(255,255,255,.3); z-index: 20; pointer-events: none; white-space: nowrap; }
+@media (max-width: 700px) {
+  .qp-arabic { font-size: 28px; }
+  .qp-english { font-size: 18px; }
+  .qp-controls { flex-wrap: wrap; justify-content: center; }
+}
