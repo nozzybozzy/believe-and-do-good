@@ -255,39 +255,49 @@ export function readingMinutes(docs: TafsirDoc[]): number {
 
 // ---------- serialisable views for client components ----------
 
-export type AyahNoteJson = {
+export type NoteSectionJson = {
   id: string;
   heading: string;
   headingHtml: string;
   html: string;
-  from: number;
-  to: number;
-  first: boolean;
+};
+
+export type AyahNoteRef = { id: string; from: number; to: number; first: boolean };
+
+export type NotesIndex = {
+  sections: Record<string, NoteSectionJson>;
+  byAyah: Record<string, AyahNoteRef[]>;
 };
 
 const dropNum = (s: string) => s.replace(/^\d+\.\s*/, '');
 
 /**
  * Per-ayah notes as plain JSON, for the player's Learn-more panel.
- * Keyed by ayah number; `first` marks the ayah a section opens at.
+ *
+ * Sections are listed once and referenced by id: a section covering forty ayat
+ * would otherwise be serialised forty times, which took Al-Baqarah's payload
+ * past 4 MB. `first` marks the ayah a section opens at.
  */
-export function ayahNotesJson(surah: number): Record<string, AyahNoteJson[]> {
-  const out: Record<string, AyahNoteJson[]> = {};
+export function ayahNotesJson(surah: number): NotesIndex {
+  const sections: Record<string, NoteSectionJson> = {};
+  const byAyah: Record<string, AyahNoteRef[]> = {};
+
   for (const [ayah, list] of notesByAyah(surah)) {
-    out[ayah] = list.map(({ section: s, first }) => {
+    byAyah[ayah] = list.map(({ section: s, first }) => {
+      if (!sections[s.id]) {
+        sections[s.id] = {
+          id: s.id,
+          heading: dropNum(s.heading),
+          headingHtml: dropNum(s.headingHtml),
+          html: s.html,
+        };
+      }
       const r = s.ranges.find(x => x.surah === surah && x.from <= ayah && x.to >= ayah)!;
-      return {
-        id: s.id,
-        heading: dropNum(s.heading),
-        headingHtml: dropNum(s.headingHtml),
-        html: s.html,
-        from: r.from,
-        to: r.to,
-        first,
-      };
+      return { id: s.id, from: r.from, to: r.to, first };
     });
   }
-  return out;
+
+  return { sections, byAyah };
 }
 
 /** The one section that covers an ayah, preferring the one that opens at it. */

@@ -2,16 +2,17 @@
 import { useEffect, useState } from 'react';
 import Link from 'next/link';
 
-type Note = {
-  id: string;
-  heading: string;
-  headingHtml: string;
-  html: string;
-  from: number;
-  to: number;
-  first: boolean;
+// Sections come down once and are referenced by id, so a note spanning many
+// ayat is not repeated for each of them.
+type Section = { id: string; heading: string; headingHtml: string; html: string };
+type NoteRef = { id: string; from: number; to: number; first: boolean };
+type NotesRes = {
+  surah: number;
+  hasNotes: boolean;
+  minutes: number;
+  sections: Record<string, Section>;
+  byAyah: Record<string, NoteRef[]>;
 };
-type NotesRes = { surah: number; hasNotes: boolean; minutes: number; byAyah: Record<string, Note[]> };
 
 type Snippet = { slug: string; title: string; snippet: string; ayah: string; period: string };
 type SeerahRes = { surah: number; byAyah: Record<string, Snippet[]> };
@@ -67,9 +68,10 @@ export default function LearnMore({
   }
 
   const here = notes?.byAyah?.[ayah] ?? [];
-  const note = here.find(n => n.first) ?? here[0] ?? null;
+  const ref = here.find(n => n.first) ?? here[0] ?? null;
+  const note = ref ? notes?.sections?.[ref.id] ?? null : null;
   const stories = seerah?.byAyah?.[ayah] ?? [];
-  const span = note ? (note.from === note.to ? `ayah ${note.from}` : `ayat ${note.from}–${note.to}`) : '';
+  const span = ref ? (ref.from === ref.to ? `ayah ${ref.from}` : `ayat ${ref.from}–${ref.to}`) : '';
 
   return (
     <section className="qp-learn">

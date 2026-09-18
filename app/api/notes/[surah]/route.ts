@@ -10,10 +10,12 @@ export async function GET(_req: Request, { params }: { params: Promise<{ surah: 
   if (!(n >= 1 && n <= 114)) return NextResponse.json({ error: 'bad surah' }, { status: 400 });
 
   const docs = tafsirFor(n);
+  const { sections, byAyah } = ayahNotesJson(n);
   return NextResponse.json({
     surah: n,
     hasNotes: docs.length > 0,
     minutes: docs.length ? readingMinutes(docs) : 0,
-    byAyah: ayahNotesJson(n),
+    sections,
+    byAyah,
   });
 }
