@@ -27,6 +27,17 @@ Open http://localhost:3000
 - `content/` — all editable content as markdown
 - `CLAUDE.md` — full build brief for the remaining phases
 
+## Search
+
+There is no database.  builds  —
+6,236 ayahs (Arabic and translation), plus every tafsir note, seerah chapter, name, dua and
+wisdom entry — and  reads it server-side. It runs automatically as , so
+the index can never drift from the content, and a deploy needs no network and no credentials.
+
+The Qur'an text it indexes is committed as  (0.5 MB) so the rebuild
+is offline. Arabic is indexed with diacritics stripped, so  matches regardless of vowel
+marks. To rebuild by hand after adding content: .
+
 ## How the pieces link up
 
 Everything is joined by **ayah references**. A tafsir section is tied to ayahs by the numbers in

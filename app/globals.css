@@ -217,3 +217,10 @@ html[data-translit="off"] .translit { display: none; }
 .name-hero { margin-top: 10px; }
 .name-hero-ar { font-size: 56px; color: var(--gold); line-height: 1.6; text-align: right; }
 .name-body { margin-top: 24px; max-width: 720px; }
+
+/* ---------- Search ---------- */
+.hit { display: block; padding: 16px 0; border-bottom: 1px solid rgba(255,255,255,.08); }
+.hit:hover .hit-title { color: var(--gold); }
+.hit-kind { font-size: 11px; letter-spacing: 2px; text-transform: uppercase; color: var(--muted); }
+.hit-title { display: block; font-family: 'Lora', serif; font-size: 18px; margin-top: 3px; transition: color .15s; }
+.hit-snippet { display: block; font-family: 'Lora', serif; font-size: 15px; line-height: 1.6; color: rgba(243,234,216,.72); margin-top: 6px; max-width: 760px; }

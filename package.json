@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "import:tafsir": "python3 scripts/import_tafsir.py reference/tafsir-raw content/tafsir"
+    "import:tafsir": "python3 scripts/import_tafsir.py reference/tafsir-raw content/tafsir",
+    "prebuild": "node scripts/build-search-index.mjs",
+    "index:search": "node scripts/build-search-index.mjs"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",

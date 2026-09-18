@@ -8,6 +8,7 @@ const links = [
   ['Names of Allah', '/names'],
   ['Duas', '/duas'],
   ['Wisdom', '/wisdom'],
+  ['Search', '/search'],
 ];
 
 export default function Nav() {
