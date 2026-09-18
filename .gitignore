@@ -6,3 +6,5 @@ out
 .DS_Store
 reference/*
 !reference/.gitkeep
+__pycache__/
+*.pyc
