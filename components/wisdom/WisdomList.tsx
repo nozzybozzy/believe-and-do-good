@@ -3,7 +3,7 @@ import { useMemo, useState } from 'react';
 import Link from 'next/link';
 
 export type WisdomCard = {
-  type: 'quote' | 'lesson' | 'story';
+  type: 'quote' | 'lesson' | 'story' | 'poem';
   slug: string;
   title: string;
   attribution: string;
@@ -16,7 +16,8 @@ export type WisdomCard = {
   haystack: string;
 };
 
-const TYPE_LABEL: Record<string, string> = { lesson: 'Lesson', story: 'Story', quote: 'Quote' };
+const TYPE_LABEL: Record<string, string> = { lesson: 'Lesson', story: 'Story', quote: 'Quote', poem: 'Poem' };
+const TYPE_PLURAL: Record<string, string> = { lesson: 'Lessons', story: 'Stories', quote: 'Quotes', poem: 'Poems' };
 
 export default function WisdomList({
   items,
@@ -26,7 +27,7 @@ export default function WisdomList({
   themes: { slug: string; count: number }[];
 }) {
   const [q, setQ] = useState('');
-  const [type, setType] = useState<'all' | 'lesson' | 'story' | 'quote'>('all');
+  const [type, setType] = useState<'all' | 'lesson' | 'story' | 'quote' | 'poem'>('all');
   const [theme, setTheme] = useState<string | null>(null);
 
   const shown = useMemo(() => {
@@ -49,9 +50,9 @@ export default function WisdomList({
           onChange={e => setQ(e.target.value)}
         />
         <div className="chips">
-          {(['all', 'lesson', 'story', 'quote'] as const).map(t => (
+          {(['all', 'lesson', 'story', 'quote', 'poem'] as const).map(t => (
             <button key={t} className={'chip' + (type === t ? ' on' : '')} onClick={() => setType(t)}>
-              {t === 'all' ? 'Everything' : TYPE_LABEL[t] + 's'}
+              {t === 'all' ? 'Everything' : TYPE_PLURAL[t]}
             </button>
           ))}
         </div>

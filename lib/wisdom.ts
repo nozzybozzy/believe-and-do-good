@@ -7,11 +7,12 @@ import { Marked } from 'marked';
 const DIR = path.join(process.cwd(), 'content', 'wisdom');
 const md = new Marked({ gfm: true });
 
-export type WisdomType = 'quote' | 'lesson' | 'story';
+export type WisdomType = 'quote' | 'lesson' | 'story' | 'poem';
 export const TYPES: { key: WisdomType; label: string; blurb: string }[] = [
   { key: 'lesson', label: 'Lessons', blurb: 'The recurring logics — the patterns the Book argues by, not just the topics it covers.' },
   { key: 'story', label: 'Stories', blurb: 'Moments from the seerah that carry more than their length.' },
   { key: 'quote', label: 'Quotes', blurb: 'Lines worth keeping within reach.' },
+  { key: 'poem', label: 'Poems', blurb: 'Written over twenty years, and the source of this site’s name.' },
 ];
 
 export type AyahRef = { surah: number; from: number; to: number };

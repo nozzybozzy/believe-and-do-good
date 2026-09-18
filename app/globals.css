@@ -241,3 +241,7 @@ html[data-translit="off"] .translit { display: none; }
   .theme-row { grid-template-columns: 34px minmax(0,1fr); }
   .tr-cat, .tr-logics { grid-column: 2; }
 }
+
+/* Poems keep their line breaks and sit a little wider than prose */
+.wis-poem .prose blockquote { border-left-color: var(--gold-dim); font-family: 'Lora', serif; font-size: 17px; line-height: 1.85; }
+.wis-poem .prose blockquote p { margin-bottom: 14px; white-space: pre-line; }
