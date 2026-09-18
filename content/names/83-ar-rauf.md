@@ -8,7 +8,7 @@ meanings:
   - The Compassionate
   - The One of tender mercy
 root: ر أ ف
-invocation: Yā Raʾūf — when you need gentleness
+invocation: Yā Raʾūf, when you need gentleness
 themes:
   - mercy
   - character
@@ -29,7 +29,7 @@ verbatim_in_quran: true
 ---
 ## Meaning
 
-*Raʾfah* is the tenderest form of mercy — the kind that cannot bear to see suffering. The scholars distinguish it from *raḥmah*: mercy may still allow a hard thing for a good reason, while *raʾfah* is the shrinking from harm itself.
+*Raʾfah* is the tenderest form of mercy, the kind that cannot bear to see suffering. The scholars distinguish it from *raḥmah*: mercy may still allow a hard thing for a good reason, while *raʾfah* is the shrinking from harm itself.
 
 ## Lessons for the believer
 

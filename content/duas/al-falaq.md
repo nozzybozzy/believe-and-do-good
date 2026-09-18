@@ -16,4 +16,4 @@ translation: |-
 favourite: true
 ---
 
-The first of the two surahs of refuge. It guards the perimeter — the dark when it settles, harm from outside, and envy when the envier envies. Recited morning and evening, before sleep, and over illness.
+The first of the two surahs of refuge. It guards the perimeter, the dark when it settles, harm from outside, and envy when the envier envies. Recited morning and evening, before sleep, and over illness.

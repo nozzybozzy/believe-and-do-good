@@ -18,4 +18,4 @@ transliteration: |-
 favourite: true
 ---
 
-Talut's small band said this facing Jalut's army. The verb is *afrigh* — pour it over us, the way water is poured over something. Patience is asked for as something sent down, not something summoned from within.
+Talut's small band said this facing Jalut's army. The verb is *afrigh*, pour it over us, the way water is poured over something. Patience is asked for as something sent down, not something summoned from within.

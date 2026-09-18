@@ -18,4 +18,4 @@ transliteration: |-
 favourite: true
 ---
 
-Recited at least seventeen times a day in the obligatory prayers. The one thing the Muslim is made to ask for more than anything else is not wealth or safety but direction — and the two failures named after it are knowing and not acting, and acting without knowing.
+Recited at least seventeen times a day in the obligatory prayers. The one thing the Muslim is made to ask for more than anything else is not wealth or safety but direction, and the two failures named after it are knowing and not acting, and acting without knowing.

@@ -8,7 +8,7 @@ meanings:
   - The Unique
   - The One without partner
 root: و ح د
-invocation: Yā Wāḥid — when your loyalties are divided
+invocation: Yā Wāḥid, when your loyalties are divided
 themes:
   - tawhid
   - sincerity
@@ -23,7 +23,7 @@ verbatim_in_quran: true
 ---
 ## Meaning
 
-One, in the sense of unique and without partner — nothing beside Him, nothing like Him, nothing sharing in what He does.
+One, in the sense of unique and without partner, nothing beside Him, nothing like Him, nothing sharing in what He does.
 
 ## Lessons for the believer
 

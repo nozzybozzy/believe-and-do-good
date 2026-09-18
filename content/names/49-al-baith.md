@@ -8,7 +8,7 @@ meanings:
   - The One who raises the dead
   - The Sender of messengers
 root: ب ع ث
-invocation: Yā Bāʿith — when something in you has gone dead
+invocation: Yā Bāʿith, when something in you has gone dead
 themes:
   - hereafter
   - death

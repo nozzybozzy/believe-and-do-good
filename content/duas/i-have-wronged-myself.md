@@ -18,4 +18,4 @@ transliteration: |-
 favourite: true
 ---
 
-Musa said this after a blow he never meant to kill. Immediate, unqualified, with no account of the provocation — and the answer in the verse is immediate too.
+Musa said this after a blow he never meant to kill. Immediate, unqualified, with no account of the provocation, and the answer in the verse is immediate too.

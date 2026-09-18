@@ -18,4 +18,4 @@ transliteration: |-
 favourite: true
 ---
 
-Said by the believers when they were told that armies had gathered against them — and it increased them in faith rather than fear. Ibrahim said it when he was thrown into the fire. Four words, and they are the whole doctrine of tawakkul.
+Said by the believers when they were told that armies had gathered against them, and it increased them in faith rather than fear. Ibrahim said it when he was thrown into the fire. Four words, and they are the whole doctrine of tawakkul.

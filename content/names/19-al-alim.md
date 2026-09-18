@@ -8,7 +8,7 @@ meanings:
   - The Omniscient
   - The One whose knowledge has no gap
 root: ع ل م
-invocation: 'Yā ʿAlīm — when you are misunderstood, or do not know what to do'
+invocation: 'Yā ʿAlīm, when you are misunderstood, or do not know what to do'
 themes:
   - knowledge
   - tawhid
@@ -30,12 +30,12 @@ verbatim_in_quran: true
 ---
 ## Meaning
 
-Knowledge that is complete and without acquisition — not learned, not deduced, not subject to forgetting. *With Him are the keys of the unseen; none knows them except Him* (6:59).
+Knowledge that is complete and without acquisition, not learned, not deduced, not subject to forgetting. *With Him are the keys of the unseen; none knows them except Him* (6:59).
 
 ## Lessons for the believer
 
 It cuts two ways, and both are needed.
 
-It is a comfort: the intention nobody saw, the effort nobody credited, the harm done to you that you could never prove — all of it is known, exactly, without your having to make the case.
+It is a comfort: the intention nobody saw, the effort nobody credited, the harm done to you that you could never prove, all of it is known, exactly, without your having to make the case.
 
 And it is a check: the thing you did when you were certain no one was looking had an audience. A person who really holds this name loses the ability to live two lives.

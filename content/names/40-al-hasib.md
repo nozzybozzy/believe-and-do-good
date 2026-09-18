@@ -8,7 +8,7 @@ meanings:
   - The One who takes account
   - The Sufficient
 root: ح س ب
-invocation: Yā Ḥasīb — when you are being wronged and cannot prove it
+invocation: Yā Ḥasīb, when you are being wronged and cannot prove it
 themes:
   - justice
   - hereafter
@@ -18,7 +18,7 @@ verbatim_in_quran: false
 ---
 ## Meaning
 
-Two meanings from one root. The One who takes account — every deed weighed exactly. And the One who suffices — *ḥasbī Allāh*, Allah is enough for me.
+Two meanings from one root. The One who takes account, every deed weighed exactly. And the One who suffices, *ḥasbī Allāh*, Allah is enough for me.
 
 ## Lessons for the believer
 

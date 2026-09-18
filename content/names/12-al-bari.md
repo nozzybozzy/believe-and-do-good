@@ -8,7 +8,7 @@ meanings:
   - The Maker
   - The One who brings into being free of flaw
 root: ب ر أ
-invocation: Yā Bāriʾ — for a fresh start
+invocation: Yā Bāriʾ, for a fresh start
 themes:
   - creation
   - tawhid

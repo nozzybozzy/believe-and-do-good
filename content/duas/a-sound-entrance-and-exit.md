@@ -18,4 +18,4 @@ transliteration: |-
 favourite: true
 ---
 
-Revealed in connection with the Hijrah — leaving Makkah and entering Madinah. It has been used ever since for any entering and leaving: a journey, an office, a decision, a role.
+Revealed in connection with the Hijrah, leaving Makkah and entering Madinah. It has been used ever since for any entering and leaving: a journey, an office, a decision, a role.

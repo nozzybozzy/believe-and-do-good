@@ -2,7 +2,7 @@ import Link from 'next/link';
 import { seerahByPeriod, allSeerah } from '@/lib/seerah';
 
 export const metadata = {
-  title: 'Seerah — Believe & Do Good',
+  title: 'Seerah · Believe & Do Good',
   description: 'The life of the Prophet ﷺ in fifty chapters, linked to the ayahs revealed at each stage.',
 };
 
@@ -20,7 +20,7 @@ export default function SeerahIndex() {
       <h1>Seerah</h1>
       <p className="lead">
         The life of the Prophet ﷺ in {total} chapters, from the Year of the Elephant to the Farewell
-        Pilgrimage — each one linked to the ayahs revealed around it.
+        Pilgrimage, each one linked to the ayahs revealed around it.
       </p>
 
       {groups.map(g => (
@@ -51,7 +51,7 @@ export default function SeerahIndex() {
       ))}
 
       <p className="source-note">
-        Written as original prose from the standard sources — Ibn Hisham, Ibn Kathir&apos;s
+        Written as original prose from the standard sources: Ibn Hisham, Ibn Kathir&apos;s
         <em> Al-Sira al-Nabawiyya</em>, the collections of al-Bukhari and Muslim, and a concise modern
         chronology. Facts and references are taken from them; the wording is our own.
       </p>

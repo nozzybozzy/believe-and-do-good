@@ -8,7 +8,7 @@ meanings:
   - The Great
   - The One greater than all things
 root: ك ب ر
-invocation: Yā Kabīr — when something has become too important to you
+invocation: Yā Kabīr, when something has become too important to you
 themes:
   - tawhid
   - prayer
@@ -30,6 +30,6 @@ Greatness of rank and being. Related to al-Mutakabbir, but where that name is gr
 
 ## Lessons for the believer
 
-*Allāhu akbar* — Allah is greater — is said to begin the prayer, and at every change of posture, and from every minaret five times a day.
+*Allāhu akbar*, Allah is greater, is said to begin the prayer, and at every change of posture, and from every minaret five times a day.
 
 Greater than what? The sentence is deliberately left open. Greater than whatever was on your mind when you raised your hands. Greater than the deadline, the argument, the fear, the ambition. The word is not comparative to anything in particular because it is comparative to everything.

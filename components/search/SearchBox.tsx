@@ -106,7 +106,7 @@ export default function SearchBox() {
 
       {q.trim().length < 2 && (
         <div className="soon">
-          Type at least two letters. English or Arabic — Arabic matches regardless of vowel marks.
+          Type at least two letters. English or Arabic. Arabic matches regardless of vowel marks.
         </div>
       )}
     </>

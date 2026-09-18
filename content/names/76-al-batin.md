@@ -8,7 +8,7 @@ meanings:
   - The Near
   - 'The One closer than anything, unseen'
 root: ب ط ن
-invocation: Yā Bāṭin — when He feels far away
+invocation: Yā Bāṭin, when He feels far away
 themes:
   - tawhid
   - knowledge
@@ -19,7 +19,7 @@ verbatim_in_quran: true
 ---
 ## Meaning
 
-Hidden — not in the sense of absent, but of being nearer than what can be observed. The Prophet ﷺ explained it as: nothing is nearer than Him.
+Hidden, not in the sense of absent, but of being nearer than what can be observed. The Prophet ﷺ explained it as: nothing is nearer than Him.
 
 ## Lessons for the believer
 

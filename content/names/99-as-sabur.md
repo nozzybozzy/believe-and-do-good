@@ -8,7 +8,7 @@ meanings:
   - The Timeless in patience
   - The One who does not act in haste
 root: ص ب ر
-invocation: Yā Ṣabūr — when you are running out of patience
+invocation: Yā Ṣabūr, when you are running out of patience
 themes:
   - patience
   - mercy
@@ -19,7 +19,7 @@ verbatim_in_quran: false
 ---
 ## Meaning
 
-Patience without limit. Close to al-Ḥalīm, with a difference of emphasis: forbearance is about withholding a deserved punishment, while *ṣabr* here is about the sheer duration — not being hurried, ever, by anything.
+Patience without limit. Close to al-Ḥalīm, with a difference of emphasis: forbearance is about withholding a deserved punishment, while *ṣabr* here is about the sheer duration, not being hurried, ever, by anything.
 
 ## Lessons for the believer
 

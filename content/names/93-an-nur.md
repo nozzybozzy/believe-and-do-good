@@ -8,7 +8,7 @@ meanings:
   - The Illuminator
   - The Light of the heavens and the earth
 root: ن و ر
-invocation: Yā Nūr — when you cannot see your way
+invocation: Yā Nūr, when you cannot see your way
 themes:
   - guidance
   - knowledge
@@ -30,10 +30,10 @@ verbatim_in_quran: true
 ---
 ## Meaning
 
-*Allah is the Light of the heavens and the earth* (24:35) — and the verse immediately turns to a parable of a lamp in a niche, glass like a brilliant star, oil that almost glows before fire touches it. *Light upon light. Allah guides to His light whom He wills.*
+*Allah is the Light of the heavens and the earth* (24:35), and the verse immediately turns to a parable of a lamp in a niche, glass like a brilliant star, oil that almost glows before fire touches it. *Light upon light. Allah guides to His light whom He wills.*
 
 ## Lessons for the believer
 
-Light does not argue with darkness; it ends it by arriving.
+Light does not argue with darkness. It ends it by arriving.
 
-The Prophet's dua on entering the mosque asks for light in his heart, his hearing, his sight, his right and his left, before him and behind him. And on the Day of Judgement, the believers' request is *Our Lord, perfect for us our light* (66:8) — they already have some, and know it is not enough.
+The Prophet's dua on entering the mosque asks for light in his heart, his hearing, his sight, his right and his left, before him and behind him. And on the Day of Judgement, the believers' request is *Our Lord, perfect for us our light* (66:8), they already have some, and know it is not enough.

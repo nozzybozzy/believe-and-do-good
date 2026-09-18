@@ -8,7 +8,7 @@ meanings:
   - The Wise
   - The One who puts everything in its right place
 root: ح ك م
-invocation: Yā Ḥakīm — when a decree makes no sense to you
+invocation: Yā Ḥakīm, when a decree makes no sense to you
 themes:
   - knowledge
   - trials

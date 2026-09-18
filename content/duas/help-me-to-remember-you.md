@@ -18,4 +18,4 @@ needs_verification: true
 
 The Prophet ﷺ took Mu'adh by the hand, told him he loved him, and told him never to leave this at the end of a prayer.
 
-Note that all three are asked for as help. Not *let me remember You* but *help me to* — remembrance, gratitude and good worship are treated as things a person cannot reliably produce on his own, and the asking is itself the first instalment of the answer.
+Note that all three are asked for as help. Not *let me remember You* but *help me to*, remembrance, gratitude and good worship are treated as things a person cannot reliably produce on his own, and the asking is itself the first instalment of the answer.

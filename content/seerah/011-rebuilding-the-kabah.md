@@ -19,10 +19,10 @@ It went well until the Black Stone. Setting it in the wall was the one act every
 
 Someone proposed a way out: let the first man to walk through the gate of the Haram in the morning decide.
 
-The first man through was Muhammad ﷺ, and they were relieved — *al-Amin*, they said; we accept his judgement.
+The first man through was Muhammad ﷺ, and they were relieved, *al-Amin*, they said. We accept his judgement.
 
 He asked for a sheet, laid the stone in the centre of it, and told each clan to take hold of an edge. They carried it together to the wall. Then he lifted the stone with his own hands and set it in place.
 
 Everyone had carried it. No one had been excluded. Nobody had lost.
 
-He was about thirty-five, and he had no prophethood and no authority behind him — only a reputation, and a way of seeing a problem that nobody standing in that circle had thought of. Five years later he would be told to warn these same men, and most of them would refuse him.
+He was about thirty-five, and he had no prophethood and no authority behind him, only a reputation, and a way of seeing a problem that nobody standing in that circle had thought of. Five years later he would be told to warn these same men, and most of them would refuse him.

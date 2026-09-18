@@ -8,7 +8,7 @@ meanings:
   - The Clement
   - The One who does not hasten to punish
 root: ح ل م
-invocation: Yā Ḥalīm — when you want to retaliate immediately
+invocation: Yā Ḥalīm, when you want to retaliate immediately
 themes:
   - mercy
   - patience
@@ -26,6 +26,6 @@ Forbearance: full power to punish, full knowledge of the offence, and no haste t
 
 *If Allah were to punish people for what they have earned, He would not leave upon the earth a single creature* (35:45).
 
-That is the honest assessment. The gap between what is deserved and what arrives is the space this name creates — and it is the space in which every repentance has ever happened.
+That is the honest assessment. The gap between what is deserved and what arrives is the space this name creates, and it is the space in which every repentance has ever happened.
 
-And it is a character instruction. The Prophet ﷺ said the strong man is not the one who overcomes people in wrestling; he is the one who controls himself in anger.
+And it is a character instruction. The Prophet ﷺ said the strong man is not the one who overcomes people in wrestling. He is the one who controls himself in anger.

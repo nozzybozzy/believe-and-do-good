@@ -9,7 +9,7 @@ meanings:
   - The One who judges and decides
   - The Granter of victory
 root: ف ت ح
-invocation: Yā Fattāḥ — when every door seems shut
+invocation: Yā Fattāḥ, when every door seems shut
 themes:
   - provision
   - trials
@@ -20,7 +20,7 @@ verbatim_in_quran: true
 ---
 ## Meaning
 
-*Fatḥ* is opening — and in Arabic it covers three things at once: opening what is closed, deciding what is disputed, and granting victory. The conquest of Makkah is a *fatḥ*. A judge's ruling is a *fatḥ*. The first surah of the Qur'an is *al-Fātiḥah*, the Opener.
+*Fatḥ* is opening, and in Arabic it covers three things at once: opening what is closed, deciding what is disputed, and granting victory. The conquest of Makkah is a *fatḥ*. A judge's ruling is a *fatḥ*. The first surah of the Qur'an is *al-Fātiḥah*, the Opener.
 
 ## Lessons for the believer
 

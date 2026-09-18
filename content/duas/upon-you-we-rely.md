@@ -18,4 +18,4 @@ transliteration: |-
 favourite: true
 ---
 
-From the example set by Ibrahim and those with him. Reliance, turning back, and destination — the three stated together, so that trust is not mistaken for passivity.
+From the example set by Ibrahim and those with him. Reliance, turning back, and destination, the three stated together, so that trust is not mistaken for passivity.

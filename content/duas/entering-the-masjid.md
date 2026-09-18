@@ -16,6 +16,6 @@ favourite: true
 needs_verification: true
 ---
 
-Said on entering. On leaving, the request changes to *O Allah, I ask You of Your bounty* — **Allāhumma innī asʾaluka min faḍlik**.
+Said on entering. On leaving, the request changes to *O Allah, I ask You of Your bounty*, Allāhumma innī asʾaluka min faḍlik.
 
-The two halves are a small course in how to hold the world. Going in, you ask for mercy. Going out — into the market, the work, the earning — you ask for bounty. Neither is asked for in the wrong place.
+The two halves are a small course in how to hold the world. Going in, you ask for mercy. Going out, into the market, the work, the earning, you ask for bounty. Neither is asked for in the wrong place.

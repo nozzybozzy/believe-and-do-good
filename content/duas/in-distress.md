@@ -18,4 +18,4 @@ needs_verification: true
 
 What the Prophet ﷺ would say when something weighed on him.
 
-There is no request in it anywhere. It is three declarations of who Allah is, each one larger than the last — and that is the treatment. The same shape as the prayer of Yunus from inside the whale: state the truth about Him, and the size of the problem adjusts itself.
+There is no request in it anywhere. It is three declarations of who Allah is, each one larger than the last, and that is the treatment. The same shape as the prayer of Yunus from inside the whale: state the truth about Him, and the size of the problem adjusts itself.

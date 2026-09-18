@@ -9,11 +9,11 @@ logic: L4
 favourite: true
 ---
 
-We are all travelling to the same destination. Different planes, different flight paths, different times, different company, different levels of comfort — and one arrivals hall.
+We are all travelling to the same destination. Different planes, different flight paths, different times, different company, different levels of comfort, and one arrivals hall.
 
-**First class** has the finest of everything, room to stretch, people waiting on them. And the heart may be empty. Pride, boastfulness, so far removed that there is little real contact left. Money and time, and no connection, no purpose, nothing pulling them to grow.
+First class has the finest of everything, room to stretch, people waiting on them. And the heart may be empty. Pride, boastfulness, so far removed that there is little real contact left. Money and time, and no connection, no purpose, nothing pulling them to grow.
 
-**Business class** is constantly away — trips, meetings, people to impress. Money but no time. Intellect but no joy. Wearing the busyness like a medal, looking forward to the day it all comes together. There is no such day. The busyness does not end.
+Business class is constantly away, trips, meetings, people to impress. Money but no time. Intellect but no joy. Wearing the busyness like a medal, looking forward to the day it all comes together. There is no such day. The busyness does not end.
 
 **Economy** is most of us: fighting over legroom, irritated by the meal, uncomfortable, frustrated with the seat we were given and watching the curtain at the front.
 

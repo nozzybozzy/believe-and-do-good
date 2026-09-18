@@ -2,7 +2,7 @@ import { allDuas, duaOccasions } from '@/lib/duas';
 import DuaList, { type DuaCard } from '@/components/duas/DuaList';
 
 export const metadata = {
-  title: 'Duas — Believe & Do Good',
+  title: 'Duas · Believe & Do Good',
   description: 'Supplications from the Qur’an and the Sunnah, by occasion, with Arabic, transliteration, translation and references.',
 };
 
@@ -33,7 +33,7 @@ export default function DuasPage() {
     <main className="container">
       <h1>Duas</h1>
       <p className="lead">
-        {duas.length} supplications — {quranic} of them straight out of the Qur&apos;an, the rest from
+        {duas.length} supplications, {quranic} of them straight out of the Qur&apos;an, the rest from
         the Sunnah. Arabic, transliteration, translation, and a note on where each one was said and why.
       </p>
 
@@ -41,7 +41,7 @@ export default function DuasPage() {
 
       <p className="source-note">
         The Qur&apos;anic duas take their Arabic (Uthmani) from the Quran.com API and their translation
-        from Saheeh International via AlQuran.cloud — nothing is transcribed by hand. Duas from the
+        from Saheeh International via AlQuran.cloud. Nothing is transcribed by hand. Duas from the
         Sunnah are marked with their collection; those still flagged for verification should be checked
         against a printed copy of <em>Hisn al-Muslim</em> or the source collection before use.
       </p>

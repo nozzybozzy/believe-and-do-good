@@ -12,4 +12,4 @@ favourite: true
 
 The surah has just listed four completed favours and promised, twice, that with hardship comes ease.
 
-And then it refuses to let the relief be a resting place. Finish, and get up. The ease was not the destination; it was the capacity to do the next thing.
+And then it refuses to let the relief be a resting place. Finish, and get up. The ease was not the destination. It was the capacity to do the next thing.

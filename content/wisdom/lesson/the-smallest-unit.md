@@ -11,6 +11,6 @@ favourite: true
 
 The dust-speck, in both directions. Half a date. A good word. A cup of water. A sheep's hoof. One grape. And on the other side, small sins gathered up until they destroy a man.
 
-Al-Ma'un ends its indictment not at zakah but at **al-ma'un** itself — the small things lent between neighbours: an axe, a pot, a bucket. Things given and returned undamaged.
+Al-Ma'un ends its indictment not at zakah but at al-ma'un itself, the small things lent between neighbours: an axe, a pot, a bucket. Things given and returned undamaged.
 
 The Book measures you where generosity costs nothing, because that is exactly where the truth about a person shows. What you do when the stakes are high can be explained by the stakes. What you do when nothing is at stake cannot.

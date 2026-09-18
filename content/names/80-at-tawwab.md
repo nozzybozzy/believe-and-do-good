@@ -8,7 +8,7 @@ meanings:
   - The One who constantly accepts return
   - The Relenting
 root: ت و ب
-invocation: Yā Tawwāb — every time you come back
+invocation: Yā Tawwāb, every time you come back
 themes:
   - repentance
   - forgiveness
@@ -24,9 +24,9 @@ verbatim_in_quran: true
 ---
 ## Meaning
 
-*Tawbah* is turning back. The form here is intensive and repeated — not one who accepted a return once, but one who keeps accepting, without limit.
+*Tawbah* is turning back. The form here is intensive and repeated, not one who accepted a return once, but one who keeps accepting, without limit.
 
-And the word works both ways in the Qur'an: the servant turns to Allah, and Allah turns to the servant. He turns to them *so that they might turn to Him* (9:118) — His turning comes first.
+And the word works both ways in the Qur'an: the servant turns to Allah, and Allah turns to the servant. He turns to them *so that they might turn to Him* (9:118), His turning comes first.
 
 ## Lessons for the believer
 

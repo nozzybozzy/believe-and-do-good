@@ -1,7 +1,7 @@
 ---
 order: 49
 slug: the-farewell-pilgrimage
-title: "The Farewell Pilgrimage"
+title: "The farewell pilgrimage"
 period: final-years
 year_ce: 632
 year_hijri: 10
@@ -17,12 +17,12 @@ The sermon he gave there is the closest thing in Islam to a founding address, an
 
 He told them their blood and their property were sacred to one another, as sacred as that day, that month, that city. He abolished the blood feuds of the age of ignorance, and the first one he cancelled was a claim belonging to his own family. He abolished the usury of the age of ignorance, and the first debt he cancelled was owed to his own uncle al-Abbas. He told them to fear Allah regarding women, that they have rights over men as men have over them. He told them that an Arab has no superiority over a non-Arab, nor a non-Arab over an Arab, nor white over black, except by taqwa. He told them he was leaving them what they would not go astray after if they held to it: the Book of Allah.
 
-And then he asked them whether he had delivered the message, and the crowd answered that he had — and he raised his finger to the sky and said: **O Allah, bear witness.**
+And then he asked them whether he had delivered the message, and the crowd answered that he had, and he raised his finger to the sky and said: O Allah, bear witness.
 
 It was during that standing on Arafah that the verse came down:
 
-> **This day I have perfected for you your religion, and completed My favour upon you, and approved Islam as your religion.** (5:3)
+> This day I have perfected for you your religion, and completed My favour upon you, and approved Islam as your religion. (5:3)
 
-Umar wept when he heard it. A Jewish man later told him that if such a verse had come down to them they would have made that day a festival. Umar answered that he knew exactly where and when it had been revealed — on a Friday, on the day of Arafah — and that both were already festivals.
+Umar wept when he heard it. A Jewish man later told him that if such a verse had come down to them they would have made that day a festival. Umar answered that he knew exactly where and when it had been revealed, on a Friday, on the day of Arafah, and that both were already festivals.
 
 It was completion, and completion is a signal. Nothing was left outstanding.

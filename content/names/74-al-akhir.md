@@ -7,7 +7,7 @@ meaning_short: The Last
 meanings:
   - The One after whom there is nothing
 root: أ خ ر
-invocation: Yā Ākhir — when something is ending
+invocation: Yā Ākhir, when something is ending
 themes:
   - tawhid
   - death
@@ -29,10 +29,10 @@ verbatim_in_quran: true
 ---
 ## Meaning
 
-The Last — remaining when everything else has gone. *Everyone upon it will perish, and there will remain the Face of your Lord, Owner of Majesty and Honour* (55:26–27).
+The Last, remaining when everything else has gone. *Everyone upon it will perish, and there will remain the Face of your Lord, Owner of Majesty and Honour* (55:26–27).
 
 ## Lessons for the believer
 
-Everything you are attached to has an expiry. The name does not ask you to stop loving what will end; it asks you to know which category it is in.
+Everything you are attached to has an expiry. The name does not ask you to stop loving what will end. It asks you to know which category it is in.
 
 That is what makes grief bearable rather than annihilating. What ends was always going to end. The One you are ultimately returning to does not.

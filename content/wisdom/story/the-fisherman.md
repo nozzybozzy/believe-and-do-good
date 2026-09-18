@@ -31,10 +31,10 @@ A fleet. Sailing the world. Everyone catching fish on your behalf.
 
 *And then what will my reward be?*
 
-By now the businessman was shouting. **Don't you understand — you could become so rich you would never have to work again. You could spend the rest of your days sitting on this beach watching the sunset, without a care in the world.**
+By now the businessman was shouting. Don't you understand? You could become so rich you would never have to work again. You could spend the rest of your days sitting on this beach watching the sunset, without a care in the world.
 
 The fisherman, still smiling, looked up.
 
-> **And what do you think I'm doing right now?**
+> And what do you think I'm doing right now?
 
-*Do not strain your eyes toward what We have given others to enjoy* (20:131). The trap is not wealth. It is the assumption that the thing you already have has to be earned all over again, at scale, before you are allowed to enjoy it.
+*Do not strain your eyes toward what We have given others to enjoy* (20:131).

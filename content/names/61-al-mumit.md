@@ -7,7 +7,7 @@ meaning_short: The Giver of death
 meanings:
   - The One who causes to die
 root: م و ت
-invocation: Yā Mumīt — remembering the appointment
+invocation: Yā Mumīt, remembering the appointment
 themes:
   - death
   - hereafter

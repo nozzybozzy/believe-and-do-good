@@ -8,7 +8,7 @@ meanings:
   - The Seer of all things
   - The One with perfect insight
 root: ب ص ر
-invocation: Yā Baṣīr — when your effort goes unseen
+invocation: Yā Baṣīr, when your effort goes unseen
 themes:
   - knowledge
   - sincerity
@@ -27,10 +27,10 @@ verbatim_in_quran: true
 ---
 ## Meaning
 
-Sight without limit of distance, darkness or concealment — and *baṣīrah*, insight, from the same root: seeing into a thing, not merely at it.
+Sight without limit of distance, darkness or concealment, and *baṣīrah*, insight, from the same root: seeing into a thing, not merely at it.
 
 ## Lessons for the believer
 
 Almost every time it appears, it is attached to conduct: *Allah is Seeing of what you do.*
 
-That is the engine of *iḥsān* — the Prophet's definition of excellence as worshipping Allah as though you see Him, and if you do not see Him, knowing that He sees you. Sincerity is not a feeling you work up. It is the practical consequence of taking this name seriously for more than a moment.
+That is the engine of *iḥsān*, the Prophet's definition of excellence as worshipping Allah as though you see Him, and if you do not see Him, knowing that He sees you. Sincerity is not a feeling you work up. It is the practical consequence of taking this name seriously for more than a moment.

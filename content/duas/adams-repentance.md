@@ -18,4 +18,4 @@ transliteration: |-
 favourite: true
 ---
 
-The first repentance ever made. Adam and Hawwa and Iblis all disobeyed; the difference was not the sin but what came after it. This is the sentence that separates them: owning it, without excuse and without argument.
+The first repentance ever made. Adam and Hawwa and Iblis all disobeyed. The difference was not the sin but what came after it. This is the sentence that separates them: owning it, without excuse and without argument.

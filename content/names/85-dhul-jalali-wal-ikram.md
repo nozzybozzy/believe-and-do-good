@@ -7,7 +7,7 @@ meaning_short: Owner of Majesty and Honour
 meanings:
   - Lord of Majesty and Generosity
 root: ج ل ل / ك ر م
-invocation: Yā Dhā'l-Jalāli wa'l-Ikrām — the Prophet ﷺ told us to persist with this one
+invocation: Yā Dhā'l-Jalāli wa'l-Ikrām, the Prophet ﷺ told us to persist with this one
 themes:
   - tawhid
   - prayer
@@ -22,6 +22,6 @@ Two things in one title: *jalāl*, majesty that humbles, and *ikrām*, honour an
 
 ## Lessons for the believer
 
-The Prophet ﷺ heard a man calling on Allah with it in prayer and said he had been answered. He also instructed: *persist in* — literally, be constant with — *yā Dhā'l-Jalāli wa'l-Ikrām*.
+The Prophet ﷺ heard a man calling on Allah with it in prayer and said he had been answered. He also instructed: *persist in*, literally, be constant with, *yā Dhā'l-Jalāli wa'l-Ikrām*.
 
 Surah Ar-Rahman is built around it. The surah that repeats *which of the favours of your Lord will you deny* thirty-one times closes on this name: majesty and generosity, stated together, as the last word.

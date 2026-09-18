@@ -7,7 +7,7 @@ meaning_short: The All-Hearing
 meanings:
   - The Hearer of every sound and every prayer
 root: س م ع
-invocation: Yā Samīʿ — when nobody is listening
+invocation: Yā Samīʿ, when nobody is listening
 themes:
   - dua
   - knowledge
@@ -29,7 +29,7 @@ verbatim_in_quran: true
 ---
 ## Meaning
 
-Hearing that misses nothing — not the spoken and not the unspoken, not the crowd and not the whisper.
+Hearing that misses nothing, not the spoken and not the unspoken, not the crowd and not the whisper.
 
 ## Lessons for the believer
 

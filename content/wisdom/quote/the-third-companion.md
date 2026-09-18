@@ -13,4 +13,4 @@ favourite: true
 
 Said in the cave of Thawr, with the search party close enough that Abu Bakr could see their feet, and a price on both their heads.
 
-The Qur'an quotes what was said in that cave — *do not grieve, indeed Allah is with us* (9:40) — and it is the only place in the Book where a sentence spoken to Abu Bakr is preserved.
+The Qur'an quotes what was said in that cave, *do not grieve, indeed Allah is with us* (9:40), and it is the only place in the Book where a sentence spoken to Abu Bakr is preserved.

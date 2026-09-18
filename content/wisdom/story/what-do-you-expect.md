@@ -2,7 +2,7 @@
 type: story
 slug: what-do-you-expect
 title: "No blame upon you this day"
-attribution: "Seerah — the conquest of Makkah, 8 AH"
+attribution: "Seerah, the conquest of Makkah, 8 AH"
 themes: [forgiveness, mercy, character, humility]
 related_ayahs: ["110:1-3", "12:92", "17:81"]
 seerah: [the-conquest-of-makkah]
@@ -17,6 +17,6 @@ He asked them: *what do you think I am going to do with you?*
 
 They said: a noble brother, and the son of a noble brother.
 
-He gave them the words Yusuf gave the brothers who had thrown him into the well: **no blame upon you this day. Go — you are free.**
+He gave them the words Yusuf gave the brothers who had thrown him into the well: no blame upon you this day. Go, you are free.
 
 Twenty-one years of it, closed in a sentence. Hind, who had chewed Hamzah's liver at Uhud, accepted Islam. Wahshi, who killed him, accepted Islam.

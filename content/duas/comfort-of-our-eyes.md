@@ -18,4 +18,4 @@ transliteration: |-
 favourite: true
 ---
 
-The last of the qualities of the servants of the Most Merciful. It asks for family to be a coolness of the eyes — and then, in the same breath, to be made an example for the God-conscious. The household and the public role are asked for together.
+The last of the qualities of the servants of the Most Merciful. It asks for family to be a coolness of the eyes, and then, in the same breath, to be made an example for the God-conscious. The household and the public role are asked for together.

@@ -16,4 +16,4 @@ translation: |-
 favourite: true
 ---
 
-The bearers of the Throne ask forgiveness for the believers on earth — and then ask that their parents, spouses and descendants be admitted with them. Worth reading slowly: this is being said about you, by them, now.
+The bearers of the Throne ask forgiveness for the believers on earth, and then ask that their parents, spouses and descendants be admitted with them. Worth reading slowly: this is being said about you, by them, now.

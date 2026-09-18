@@ -18,4 +18,4 @@ transliteration: |-
 favourite: true
 ---
 
-Said by young men who had walked away from their entire society and had no plan beyond the cave they were hiding in. They asked for mercy and for their affair to be *arranged* for them — and then slept for three hundred years while it was.
+Said by young men who had walked away from their entire society and had no plan beyond the cave they were hiding in. They asked for mercy and for their affair to be *arranged* for them, and then slept for three hundred years while it was.

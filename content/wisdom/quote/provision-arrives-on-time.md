@@ -16,4 +16,4 @@ favourite: true
 
 Two lines, and between them they remove both anxieties at once: that you will be forgotten, and that you could force the matter if you only pushed harder.
 
-What is left is the part that was always yours — the striving itself, done well, and released.
+What is left is the part that was always yours, the striving itself, done well, and released.

@@ -8,7 +8,7 @@ meanings:
   - The Most Kind
   - The One who reaches the finest detail unseen
 root: ل ط ف
-invocation: Yā Laṭīf — when you cannot see how it could possibly work out
+invocation: Yā Laṭīf, when you cannot see how it could possibly work out
 themes:
   - mercy
   - trials
@@ -20,7 +20,7 @@ verbatim_in_quran: true
 ---
 ## Meaning
 
-Two senses held together. *Luṭf* is gentleness and kindness. And *laṭīf* is fine, subtle, imperceptible — able to reach into the smallest place without being noticed.
+Two senses held together. *Luṭf* is gentleness and kindness. And *laṭīf* is fine, subtle, imperceptible, able to reach into the smallest place without being noticed.
 
 So: the One whose kindness arrives by routes too fine to trace.
 

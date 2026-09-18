@@ -18,4 +18,4 @@ transliteration: |-
 favourite: true
 ---
 
-Zakariya again, and this time you can hear the fear under it — not of dying, but of dying with nothing continuing. He immediately answers his own fear: and You are the best of inheritors.
+Zakariya again, and this time you can hear the fear under it, not of dying, but of dying with nothing continuing. He immediately answers his own fear: and You are the best of inheritors.

@@ -15,8 +15,6 @@ The carrot went in hard and came out soft and limp.
 
 The egg went in fragile, with a thin shell protecting a liquid centre, and came out hardened all the way through.
 
-The tea leaves did neither. They **changed the water** — turned the whole pot fragrant and rich, and were most themselves at the moment it got hottest.
+The tea leaves did neither. They changed the water, turned the whole pot fragrant and rich, and were most themselves at the moment it got hottest.
 
-Same water. Three outcomes.
-
-The heat does not decide what you become; it reveals what you were made of. The question worth sitting with is only which of the three you have been lately — and the one to aim at is not the one that toughens.
+Same water. Three outcomes. The heat does not decide what you become, it reveals what you were made of.

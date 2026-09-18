@@ -3,7 +3,7 @@ import { allSeerah } from '@/lib/seerah';
 import WisdomList, { type WisdomCard } from '@/components/wisdom/WisdomList';
 
 export const metadata = {
-  title: 'Wisdom — Believe & Do Good',
+  title: 'Wisdom · Believe & Do Good',
   description: 'The recurring logics of the Qur’an, moments from the seerah, and lines worth keeping.',
 };
 

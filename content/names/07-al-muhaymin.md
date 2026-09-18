@@ -9,7 +9,7 @@ meanings:
   - The Preserver
   - The One who has authority over all
 root: ه م ن
-invocation: Yā Muhaymin — when something you love is out of your reach
+invocation: Yā Muhaymin, when something you love is out of your reach
 themes:
   - protection
   - knowledge
@@ -20,7 +20,7 @@ verbatim_in_quran: true
 ---
 ## Meaning
 
-The one who watches over a thing, preserves it, and stands as authority over it. The Qur'an uses it of itself in relation to the earlier scriptures: confirming what came before and *muhayminan* over it — the criterion by which the rest is judged.
+The one who watches over a thing, preserves it, and stands as authority over it. The Qur'an uses it of itself in relation to the earlier scriptures: confirming what came before and *muhayminan* over it, the criterion by which the rest is judged.
 
 ## Lessons for the believer
 

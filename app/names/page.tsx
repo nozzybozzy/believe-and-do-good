@@ -2,8 +2,8 @@ import Link from 'next/link';
 import { allNames } from '@/lib/names';
 
 export const metadata = {
-  title: 'The Names of Allah — Believe & Do Good',
-  description: 'The ninety-nine names — meaning, the lesson each one carries, and how to invoke it.',
+  title: 'The Names of Allah · Believe & Do Good',
+  description: 'The ninety-nine names: what each one means, the lesson it carries, and how to invoke it.',
 };
 
 export default function NamesPage() {
@@ -14,7 +14,7 @@ export default function NamesPage() {
     <main className="container">
       <h1>The Names of Allah</h1>
       <p className="lead">
-        The ninety-nine names as listed in the hadith of at-Tirmidhi — what each one means, the
+        The ninety-nine names as listed in the hadith of at-Tirmidhi. What each one means, the
         lesson it carries, and when to call on it.
       </p>
 

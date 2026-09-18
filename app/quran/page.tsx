@@ -14,7 +14,7 @@ export default async function QuranIndex() {
           <Link key={c.id} href={`/quran/${c.id}`} className="card">
             <div className="num">Surah {c.id}</div>
             <div className="ar">{c.name_arabic}</div>
-            <div className="en">{c.name_simple} <span className="note">— {c.translated_name.name}</span></div>
+            <div className="en">{c.name_simple} <span className="note">{c.translated_name.name}</span></div>
             <div className="meta">{c.verses_count} ayahs · {c.revelation_place === 'makkah' ? 'Meccan' : 'Medinan'}</div>
           </Link>
         ))}

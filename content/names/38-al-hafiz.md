@@ -8,7 +8,7 @@ meanings:
   - The Guardian
   - The One who preserves and protects
 root: ح ف ظ
-invocation: Yā Ḥafīẓ — for what you cannot protect yourself
+invocation: Yā Ḥafīẓ, for what you cannot protect yourself
 themes:
   - protection
   - quran
@@ -26,7 +26,7 @@ verbatim_in_quran: true
 ---
 ## Meaning
 
-To guard, preserve and keep from loss. It covers protection from harm and preservation from being forgotten — the same root as memorising the Qur'an, *ḥifẓ*.
+To guard, preserve and keep from loss. It covers protection from harm and preservation from being forgotten, the same root as memorising the Qur'an, *ḥifẓ*.
 
 ## Lessons for the believer
 

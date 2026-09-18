@@ -9,7 +9,7 @@ logic: L9
 favourite: true
 ---
 
-Each phrase matched to the moment it answers — so that the remembrance is not generic, but the specific thing that state requires.
+Each phrase matched to the moment it answers, so that the remembrance is not generic, but the specific thing that state requires.
 
 | When | Say |
 |---|---|
@@ -29,5 +29,5 @@ Each phrase matched to the moment it answers — so that the remembrance is not 
 
 And the one that settles the whole question of contentment:
 
-> **Raditu billahi Rabban, wa bil-Islami dinan, wa bi Muhammadin ﷺ nabiyya**
+> Raditu billahi Rabban, wa bil-Islami dinan, wa bi Muhammadin ﷺ nabiyya
 > I am pleased with Allah as my Lord, with Islam as my religion, and with Muhammad ﷺ as my Prophet.

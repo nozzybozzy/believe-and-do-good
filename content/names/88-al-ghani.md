@@ -8,7 +8,7 @@ meanings:
   - The Rich
   - The One free of all need
 root: غ ن ي
-invocation: Yā Ghaniyy — when you are in need
+invocation: Yā Ghaniyy, when you are in need
 themes:
   - wealth
   - tawhid
@@ -26,7 +26,7 @@ verbatim_in_quran: true
 ---
 ## Meaning
 
-Rich in the sense of needing nothing. Not wealthy by comparison — free of need altogether, which no created thing is.
+Rich in the sense of needing nothing. Not wealthy by comparison, free of need altogether, which no created thing is.
 
 ## Lessons for the believer
 

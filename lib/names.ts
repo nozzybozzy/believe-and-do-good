@@ -1,4 +1,4 @@
-// Loader for content/names — the ninety-nine names.
+// Loader for content/names, the ninety-nine names.
 // `quran_occurrences` is derived by scripts/build-name-occurrences.mjs from the
 // Uthmani text, so the references are found rather than recalled.
 import fs from 'node:fs';

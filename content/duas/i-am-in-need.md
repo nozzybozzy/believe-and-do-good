@@ -18,4 +18,4 @@ transliteration: |-
 favourite: true
 ---
 
-Musa said it in Madyan — a fugitive, hungry, having just watered someone else's flock for nothing and gone to sit in the shade. He does not name what he needs. Within the hour he had work, a home and a wife.
+Musa said it in Madyan, a fugitive, hungry, having just watered someone else's flock for nothing and gone to sit in the shade. He does not name what he needs. Within the hour he had work, a home and a wife.

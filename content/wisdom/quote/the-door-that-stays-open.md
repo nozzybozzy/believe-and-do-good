@@ -2,7 +2,7 @@
 type: quote
 slug: the-door-that-stays-open
 title: "He is ever accepting of repentance"
-attribution: "Qur'an 110:3 — the last words of the last revealed surah"
+attribution: "Qur'an 110:3, the last words of the last revealed surah"
 themes: [repentance, forgiveness, mercy]
 related_ayahs: ["110:1-3", "39:53"]
 favourite: true

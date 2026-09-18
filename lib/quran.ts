@@ -43,7 +43,7 @@ export async function getSurahBundle(n: number, reciter = RECITER_ID): Promise<S
   const v = await vRes.json();
   const t = await tRes.json();
   const a = await aRes.json();
-  // Transliteration is an assist, not scripture — if it fails, the page still works.
+  // Transliteration is an assist, not scripture. If it fails, the page still works.
   const tr = await rRes.json().catch(() => ({}));
 
   const trans: Record<number, string> = {};

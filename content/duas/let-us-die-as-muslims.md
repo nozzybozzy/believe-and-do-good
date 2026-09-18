@@ -18,4 +18,4 @@ transliteration: |-
 favourite: true
 ---
 
-The magicians of Pharaoh said this. That morning they had come for a prize; by the afternoon they were being threatened with crucifixion for believing, and they asked only for patience and a good death. Faith that was hours old and did not move.
+The magicians of Pharaoh said this. That morning they had come for a prize. By the afternoon they were being threatened with crucifixion for believing, and they asked only for patience and a good death. Faith that was hours old and did not move.

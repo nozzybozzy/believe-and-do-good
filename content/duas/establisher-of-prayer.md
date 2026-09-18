@@ -18,4 +18,4 @@ transliteration: |-
 favourite: true
 ---
 
-Ibrahim, in old age, in a barren valley. He does not ask to pray but to be *an establisher* of prayer — and immediately extends it to his descendants, and then asks that even the asking be accepted.
+Ibrahim, in old age, in a barren valley. He does not ask to pray but to be *an establisher* of prayer, and immediately extends it to his descendants, and then asks that even the asking be accepted.

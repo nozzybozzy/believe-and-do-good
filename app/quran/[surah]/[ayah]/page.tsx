@@ -13,7 +13,7 @@ export async function generateMetadata({ params }: { params: Promise<{ surah: st
   const { surah, ayah } = await params;
   const meta = surahMeta(parseInt(surah));
   return {
-    title: meta ? `${meta.name} ${surah}:${ayah} — Believe & Do Good` : 'Ayah — Believe & Do Good',
+    title: meta ? `${meta.name} ${surah}:${ayah} · Believe & Do Good` : 'Ayah · Believe & Do Good',
   };
 }
 
@@ -120,7 +120,7 @@ export default async function AyahPage({ params }: { params: Promise<{ surah: st
           <div className="actions">
             {names.map(nm => (
               <Link key={nm.slug} href={`/names/${nm.slug}`} className="btn gold">
-                <span className="ar" style={{ fontSize: 18 }}>{nm.arabic}</span> {nm.transliteration} — {nm.meaningShort}
+                <span className="ar" style={{ fontSize: 18 }}>{nm.arabic}</span> {nm.transliteration}, {nm.meaningShort}
               </Link>
             ))}
           </div>

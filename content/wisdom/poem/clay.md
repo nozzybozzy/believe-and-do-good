@@ -19,4 +19,4 @@ favourite: true
 > Pray to no other and
 > Follow the way of Muhammad ﷺ.
 
-Eight lines, and the whole of the shahadah is in the last four — the object of worship, the exclusion of every rival, and the method.
+Eight lines, and the whole of the shahadah is in the last four. The object of worship, the exclusion of every rival, and the method.

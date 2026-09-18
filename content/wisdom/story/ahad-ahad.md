@@ -2,7 +2,7 @@
 type: story
 slug: ahad-ahad
 title: "One. One."
-attribution: "Seerah — the persecution of Bilal ibn Rabah in Makkah"
+attribution: "Seerah, the persecution of Bilal ibn Rabah in Makkah"
 themes: [patience, trials, tawhid, sincerity]
 related_ayahs: ["16:106", "29:2-3", "85:8"]
 seerah: [the-persecution]
@@ -17,4 +17,4 @@ What came out of him was one word, repeated. **Ahad. Ahad.** *One. One.*
 
 He was being tortured over the oneness of Allah, and the only thing he would say was the oneness.
 
-Years later, on the day Makkah fell, the Prophet ﷺ had him climb onto the roof of the Ka'bah and call the adhan over the city — over the men who had watched.
+Years later, on the day Makkah fell, the Prophet ﷺ had him climb onto the roof of the Ka'bah and call the adhan over the city, over the men who had watched.

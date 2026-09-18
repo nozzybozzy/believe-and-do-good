@@ -8,7 +8,7 @@ meanings:
   - The Answerer of prayers
   - The One who responds
 root: ج و ب
-invocation: Yā Mujīb — when you have been asking a long time
+invocation: Yā Mujīb, when you have been asking a long time
 themes:
   - dua
   - mercy
@@ -23,6 +23,6 @@ The One who answers. Salih says it to his people: *ask forgiveness of Him and re
 
 ## Lessons for the believer
 
-*And when My servants ask you about Me — indeed I am near. I respond to the call of the caller when he calls upon Me* (2:186). The verse does not say He will hear the request and consider it. It says He responds.
+*And when My servants ask you about Me, indeed I am near. I respond to the call of the caller when he calls upon Me* (2:186). The verse does not say He will hear the request and consider it. It says He responds.
 
-The Prophet ﷺ explained the forms the response takes: the thing asked for, or something equivalent held back for the next life, or a harm turned away that you never saw coming. No dua is refused; some are answered in a currency you did not name.
+The Prophet ﷺ explained the forms the response takes: the thing asked for, or something equivalent held back for the next life, or a harm turned away that you never saw coming. No dua is refused. Some are answered in a currency you did not name.

@@ -7,7 +7,7 @@ meaning_short: The Equitable
 meanings:
   - The One who acts with perfect fairness
 root: ق س ط
-invocation: Yā Muqsiṭ — when you have to judge between people
+invocation: Yā Muqsiṭ, when you have to judge between people
 themes:
   - justice
   - character
@@ -21,6 +21,6 @@ The One who gives each party exactly their due. Where al-ʿAdl is justice as an 
 
 ## Lessons for the believer
 
-*Allah loves those who act justly* — *al-muqsiṭīn* — appears three times in the Qur'an, and each time in a context about dealing with people you might be tempted to shortchange: opponents, other communities, disputing parties.
+*Allah loves those who act justly*, *al-muqsiṭīn*, appears three times in the Qur'an, and each time in a context about dealing with people you might be tempted to shortchange: opponents, other communities, disputing parties.
 
-The Prophet ﷺ said those who are fair will be on pulpits of light beside Allah — and then specified: those who are fair in their judgements, with their families, and in what they are put in charge of. Family is named alongside courts.
+The Prophet ﷺ said those who are fair will be on pulpits of light beside Allah, and then specified: those who are fair in their judgements, with their families, and in what they are put in charge of. Family is named alongside courts.

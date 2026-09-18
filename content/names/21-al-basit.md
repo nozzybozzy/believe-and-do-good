@@ -8,7 +8,7 @@ meanings:
   - The Extender
   - The One who enlarges provision and hearts
 root: ب س ط
-invocation: Yā Bāsiṭ — for room to breathe
+invocation: Yā Bāsiṭ, for room to breathe
 themes:
   - provision
   - mercy
@@ -21,7 +21,7 @@ verbatim_in_quran: true
 ---
 ## Meaning
 
-To spread out and extend — the way a cloth is unrolled. Used of provision, of the earth laid out, and of the chest opened up.
+To spread out and extend, the way a cloth is unrolled. Used of provision, of the earth laid out, and of the chest opened up.
 
 ## Lessons for the believer
 

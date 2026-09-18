@@ -8,7 +8,7 @@ meanings:
   - Justice itself
   - The One who never wrongs anyone
 root: ع د ل
-invocation: Yā ʿAdl — when you have been treated unfairly
+invocation: Yā ʿAdl, when you have been treated unfairly
 themes:
   - justice
   - hereafter
@@ -23,10 +23,10 @@ verbatim_in_quran: true
 ---
 ## Meaning
 
-Not merely one who acts justly, but justice itself — the standard rather than something measured against a standard.
+Not merely one who acts justly, but justice itself, the standard rather than something measured against a standard.
 
 ## Lessons for the believer
 
 In the hadith qudsi He says: *O My servants, I have forbidden injustice upon Myself and made it forbidden among you, so do not wrong one another.*
 
-Read the order of that sentence. The prohibition is placed on Himself first, and only then extended to us. And the Book's demand is uncomfortable: *be persistently just witnesses for Allah, even if it be against yourselves* (4:135) — and *do not let the hatred of a people prevent you from being just* (5:8). Justice you apply only to your opponents is not justice.
+Read the order of that sentence. The prohibition is placed on Himself first, and only then extended to us. And the Book's demand is uncomfortable: *be persistently just witnesses for Allah, even if it be against yourselves* (4:135), and *do not let the hatred of a people prevent you from being just* (5:8). Justice you apply only to your opponents is not justice.

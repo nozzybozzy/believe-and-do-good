@@ -18,4 +18,4 @@ transliteration: |-
 favourite: true
 ---
 
-The disciples of Isa. Belief and following are stated together, and only then is the request made — to be recorded among those who bore witness.
+The disciples of Isa. Belief and following are stated together, and only then is the request made, to be recorded among those who bore witness.

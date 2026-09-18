@@ -11,6 +11,6 @@ favourite: true
 
 > If you want to know your value with your Lord, look to how He is using you, and what actions He has kept you busy with.
 
-A test of standing that does not consult your circumstances at all. Not what you have been given — what you have been *occupied with*.
+A test of standing that does not consult your circumstances at all. Not what you have been given, what you have been *occupied with*.
 
 It is the practical form of the rule that circumstance carries no verdict. Wealth is given to those He loves and those He does not. Being kept busy with something worth doing is a different kind of sign.

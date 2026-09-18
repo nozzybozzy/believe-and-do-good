@@ -20,9 +20,9 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const cat = CATEGORIES.find(c => catSlug(c.key) === slug);
-  if (cat) return { title: `${cat.key} ${cat.title} — Themes — Believe & Do Good`, description: cat.blurb };
+  if (cat) return { title: `${cat.key} ${cat.title} · Themes · Believe & Do Good`, description: cat.blurb };
   const logic = logicBySlug(slug);
-  if (logic) return { title: `${logic.key} ${logic.title} — Themes — Believe & Do Good`, description: logic.gist };
+  if (logic) return { title: `${logic.key} ${logic.title} · Themes · Believe & Do Good`, description: logic.gist };
   return {};
 }
 
@@ -69,8 +69,8 @@ export default async function ThemePage({ params }: { params: Promise<{ slug: st
         <p className="subtitle">{cat.subtitle}</p>
         <p className="lead" style={{ marginTop: 14 }}>{cat.blurb}</p>
         <p className="note" style={{ marginTop: 12 }}>
-          {primary.length} surahs have this as their centre of gravity — {split.makkah} Meccan,
-          {' '}{split.madinah} Medinan — and {secondary.length} more touch it.
+          {primary.length} surahs have this as their centre of gravity, {split.makkah} Meccan,
+          {' '}{split.madinah} Medinan, and {secondary.length} more touch it.
         </p>
 
         <h2>Centre of gravity</h2>
@@ -109,7 +109,7 @@ export default async function ThemePage({ params }: { params: Promise<{ slug: st
         </article>
       )}
 
-      <h2 style={{ marginTop: 34 }}>Where it runs — {items.length} surahs</h2>
+      <h2 style={{ marginTop: 34 }}>Where it runs, in {items.length} surahs</h2>
       <SurahGrid items={items} />
 
       <div className="actions" style={{ marginTop: 30 }}>

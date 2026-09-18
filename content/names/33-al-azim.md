@@ -8,7 +8,7 @@ meanings:
   - The Supreme in greatness
   - The Tremendous
 root: ع ظ م
-invocation: Yā ʿAẓīm — when a problem feels too big
+invocation: Yā ʿAẓīm, when a problem feels too big
 themes:
   - tawhid
   - prayer
@@ -30,7 +30,7 @@ verbatim_in_quran: true
 ---
 ## Meaning
 
-Greatness in every respect — of being, of attribute, of authority — beyond what a mind can encompass.
+Greatness in every respect, of being, of attribute, of authority, beyond what a mind can encompass.
 
 ## Lessons for the believer
 

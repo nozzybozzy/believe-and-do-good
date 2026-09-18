@@ -8,7 +8,7 @@ meanings:
   - The Sole Manager of affairs
   - The One in charge
 root: و ل ي
-invocation: Yā Wālī — when things feel out of control
+invocation: Yā Wālī, when things feel out of control
 themes:
   - tawhid
   - trust-in-allah
@@ -30,10 +30,10 @@ verbatim_in_quran: true
 ---
 ## Meaning
 
-The One who governs and administers — related to al-Waliyy but weighted toward management rather than friendship. A *wālī* is the one who actually runs the place.
+The One who governs and administers, related to al-Waliyy but weighted toward management rather than friendship. A *wālī* is the one who actually runs the place.
 
 ## Lessons for the believer
 
 *For him are successive angels before and behind him, protecting him by the decree of Allah... and they have not besides Him any wālī* (13:11).
 
-Nothing is running itself. Not the parts you are managing badly, and not the parts nobody is managing at all. The name does not remove your responsibility; it removes the illusion that the outcome rests on it.
+Nothing is running itself. Not the parts you are managing badly, and not the parts nobody is managing at all. The name does not remove your responsibility. It removes the illusion that the outcome rests on it.

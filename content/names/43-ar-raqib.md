@@ -8,7 +8,7 @@ meanings:
   - The Observer
   - The One who never looks away
 root: ر ق ب
-invocation: Yā Raqīb — when no one would know
+invocation: Yā Raqīb, when no one would know
 themes:
   - sincerity
   - character
@@ -23,6 +23,6 @@ To watch, guard and keep under observation continuously. Related to *muraqabah*,
 
 ## Lessons for the believer
 
-The name appears in the Qur'an at the two ends of family life: at the opening of Surah An-Nisa, on the rights of relatives and orphans, and in the mouth of Isa on the Day of Judgement, saying he was a witness over his people while among them — *and when You took me, You were ar-Raqīb over them* (5:117).
+The name appears in the Qur'an at the two ends of family life: at the opening of Surah An-Nisa, on the rights of relatives and orphans, and in the mouth of Isa on the Day of Judgement, saying he was a witness over his people while among them, *and when You took me, You were ar-Raqīb over them* (5:117).
 
-It is the name for private conduct. Everything you do unobserved is observed; the question is only whether you are living as if that were true.
+It is the name for private conduct. Everything you do unobserved is observed. The question is only whether you are living as if that were true.

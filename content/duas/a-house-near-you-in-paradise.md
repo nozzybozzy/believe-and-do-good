@@ -18,4 +18,4 @@ transliteration: |-
 favourite: true
 ---
 
-Asiya, the wife of Pharaoh, in the palace of the man claiming to be god. She asked for the neighbour before the house — *ʿindaka*, near You — and only then for rescue.
+Asiya, the wife of Pharaoh, in the palace of the man claiming to be god. She asked for the neighbour before the house, *ʿindaka*, near You, and only then for rescue.

@@ -16,4 +16,4 @@ translation: |-
 favourite: true
 ---
 
-Given to the Prophet ﷺ on the night of the Ascension, from a treasure beneath the Throne. Whoever recites these two verses at night, they will suffice him. The dua at the end is answered clause by clause — the report says that after each request, the answer came: *I have done so.*
+Given to the Prophet ﷺ on the night of the Ascension, from a treasure beneath the Throne. Whoever recites these two verses at night, they will suffice him. The dua at the end is answered clause by clause, the report says that after each request, the answer came: *I have done so.*

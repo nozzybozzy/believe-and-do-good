@@ -8,7 +8,7 @@ meanings:
   - The Uniter
   - The One who brings together
 root: ج م ع
-invocation: 'Yā Jāmiʿ — for reunion, and for hearts to come together'
+invocation: 'Yā Jāmiʿ, for reunion, and for hearts to come together'
 themes:
   - hereafter
   - community
@@ -21,7 +21,7 @@ verbatim_in_quran: true
 ---
 ## Meaning
 
-The One who gathers — mankind on a Day about which there is no doubt (3:9), and hearts that had been divided.
+The One who gathers, mankind on a Day about which there is no doubt (3:9), and hearts that had been divided.
 
 ## Lessons for the believer
 

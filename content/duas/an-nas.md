@@ -16,4 +16,4 @@ translation: |-
 favourite: true
 ---
 
-The companion to Al-Falaq, and it guards the other direction — inside the chest. Three names of Allah are used before the threat is even named, as if to establish who is in charge before mentioning the whisperer at all. It is the last surah of the Qur'an, and the danger it ends on is a suggestion.
+The companion to Al-Falaq, and it guards the other direction, inside the chest. Three names of Allah are used before the threat is even named, as if to establish who is in charge before mentioning the whisperer at all. It is the last surah of the Qur'an, and the danger it ends on is a suggestion.

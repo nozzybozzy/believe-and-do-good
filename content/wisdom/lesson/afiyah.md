@@ -11,7 +11,7 @@ favourite: true
 
 Al-'Abbas, the Prophet's uncle, came and asked him to teach him a dua. The Prophet ﷺ said:
 
-> **Allahumma inni as'aluka al-'afiyah** — O Allah, I ask You for 'afiyah.
+> Allahumma inni as'aluka al-'afiyah. O Allah, I ask You for 'afiyah.
 
 *'Afiyah* is hard to render in one English word. It means to be kept safe from affliction, whatever form it takes.
 
@@ -20,8 +20,8 @@ Al-'Abbas, the Prophet's uncle, came and asked him to teach him a dua. The Proph
 - To have your children protected is to be in 'afiyah.
 - To be forgiven and not punished is to be in 'afiyah.
 
-Al-'Abbas thought about it for a few days, came back, and said the dua seemed a little short — he wanted something bigger.
+Al-'Abbas thought about it for a few days, came back, and said the dua seemed a little short, he wanted something bigger.
 
-The Prophet ﷺ answered: *my dear uncle, ask Allah for 'afiyah — for by Allah, you cannot be given anything better than it.*
+The Prophet ﷺ answered: *my dear uncle, ask Allah for 'afiyah, for by Allah, you cannot be given anything better than it.*
 
 It covers this world and the next, and it is five words long.

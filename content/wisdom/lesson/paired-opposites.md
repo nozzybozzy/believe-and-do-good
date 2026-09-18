@@ -11,6 +11,6 @@ favourite: true
 
 Two roads. Heavy scales and light. The best of creatures and the worst, given the same grammatical shape so you cannot miss the symmetry. Al-Falaq guarding the perimeter and An-Nas guarding the heart.
 
-The Qur'an sorts almost everything into two — and the sorting is always by **what you did once the evidence arrived**, never by what you were given to start with.
+The Qur'an sorts almost everything into two, and the sorting is always by what you did once the evidence arrived, never by what you were given to start with.
 
 That last point is the one people miss. The two groups are not the advantaged and the disadvantaged. They are those who responded and those who did not.

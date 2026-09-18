@@ -45,7 +45,7 @@ export default function DuaList({
       <div className="filters">
         <input
           className="search"
-          placeholder="Search duas — patience, parents, debt, forgiveness…"
+          placeholder="Search duas: patience, parents, debt, forgiveness…"
           value={q}
           onChange={e => setQ(e.target.value)}
         />
@@ -110,7 +110,7 @@ export default function DuaList({
 
           {d.needsVerification && (
             <p className="verify">
-              Arabic and reference not yet checked against a printed copy — please verify before relying on it.
+              Arabic and reference not yet checked against a printed copy. Please verify before relying on it.
             </p>
           )}
         </article>

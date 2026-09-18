@@ -8,7 +8,7 @@ meanings:
   - The One who frees from need
   - The Bestower of sufficiency
 root: غ ن ي
-invocation: 'Yā Mughnī — for enough, and for contentment with it'
+invocation: 'Yā Mughnī, for enough, and for contentment with it'
 themes:
   - wealth
   - provision
@@ -18,7 +18,7 @@ verbatim_in_quran: false
 ---
 ## Meaning
 
-The One who makes others free of need — the active counterpart of al-Ghaniyy. He has no need, and He removes need from whom He wills.
+The One who makes others free of need, the active counterpart of al-Ghaniyy. He has no need, and He removes need from whom He wills.
 
 ## Lessons for the believer
 

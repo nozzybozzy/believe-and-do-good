@@ -11,9 +11,9 @@ const md = new Marked({ gfm: true });
 export type Period = 'pre-prophethood' | 'meccan' | 'medinan' | 'final-years';
 
 export const PERIODS: { key: Period; label: string; blurb: string }[] = [
-  { key: 'pre-prophethood', label: 'Before Prophethood', blurb: 'Birth to the eve of the first revelation — 571 to 610 CE.' },
-  { key: 'meccan', label: 'Makkah', blurb: 'From the cave of Hira to the night of the Hijrah — thirteen years.' },
-  { key: 'medinan', label: 'Madinah', blurb: 'Building a community, and defending it — years 1 to 7 after the Hijrah.' },
+  { key: 'pre-prophethood', label: 'Before Prophethood', blurb: 'Birth to the eve of the first revelation, 571 to 610 CE.' },
+  { key: 'meccan', label: 'Makkah', blurb: 'From the cave of Hira to the night of the Hijrah, thirteen years.' },
+  { key: 'medinan', label: 'Madinah', blurb: 'Building a community, and defending it, years 1 to 7 after the Hijrah.' },
   { key: 'final-years', label: 'The Final Years', blurb: 'From the conquest of Makkah to the Farewell Pilgrimage and the passing.' },
 ];
 

@@ -1,4 +1,4 @@
-// Loader for content/wisdom — quotes, lessons and stories, one folder per type.
+// Loader for content/wisdom: quotes, lessons, poems and stories, one folder per type.
 import fs from 'node:fs';
 import path from 'node:path';
 import matter from 'gray-matter';
@@ -9,7 +9,7 @@ const md = new Marked({ gfm: true });
 
 export type WisdomType = 'quote' | 'lesson' | 'story' | 'poem';
 export const TYPES: { key: WisdomType; label: string; blurb: string }[] = [
-  { key: 'lesson', label: 'Lessons', blurb: 'The recurring logics — the patterns the Book argues by, not just the topics it covers.' },
+  { key: 'lesson', label: 'Lessons', blurb: 'The patterns the Book argues by, not just the topics it covers.' },
   { key: 'story', label: 'Stories', blurb: 'Moments from the seerah that carry more than their length.' },
   { key: 'quote', label: 'Quotes', blurb: 'Lines worth keeping within reach.' },
   { key: 'poem', label: 'Poems', blurb: 'Written over twenty years, and the source of this site’s name.' },

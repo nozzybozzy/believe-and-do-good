@@ -5,7 +5,7 @@ export async function generateMetadata({ params }: { params: Promise<{ surah: st
   const { surah } = await params;
   const meta = surahMeta(parseInt(surah) || 1);
   return {
-    title: meta ? `${meta.name} — Player — Believe & Do Good` : 'Player — Believe & Do Good',
+    title: meta ? `${meta.name} · Player · Believe & Do Good` : 'Player · Believe & Do Good',
     description: 'Listen with word-by-word highlighting, then read the notes, Ibn Kathir and seerah for the ayah you are on.',
   };
 }

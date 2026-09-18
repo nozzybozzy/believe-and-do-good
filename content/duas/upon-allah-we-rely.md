@@ -18,4 +18,4 @@ transliteration: |-
 favourite: true
 ---
 
-The young followers of Musa under Pharaoh's rule. The first half is unusual: save us from becoming a trial *for* the oppressors — do not let our suffering become their proof that they were right.
+The young followers of Musa under Pharaoh's rule. The first half is unusual: save us from becoming a trial *for* the oppressors, do not let our suffering become their proof that they were right.

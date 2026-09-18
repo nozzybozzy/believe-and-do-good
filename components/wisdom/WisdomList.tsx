@@ -45,7 +45,7 @@ export default function WisdomList({
       <div className="filters">
         <input
           className="search"
-          placeholder="Search — gratitude, mercy, the orphan, Ta'if…"
+          placeholder="Search: gratitude, mercy, the orphan, Ta'if…"
           value={q}
           onChange={e => setQ(e.target.value)}
         />

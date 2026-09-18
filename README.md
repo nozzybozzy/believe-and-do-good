@@ -1,6 +1,6 @@
 # Believe & Do Good
 
-Quran, Tafsir, Seerah, the Names of Allah, Duas and Islamic wisdom — in one place.
+Quran, Tafsir, Seerah, the Names of Allah, Duas and Islamic wisdom, in one place.
 
 ## Run locally
 
@@ -13,26 +13,26 @@ Open http://localhost:3000
 
 ## Structure
 
-- `app/player` — Quran video player (Saad Al-Ghamdi, word-by-word highlighting, video export),
+- `app/player`, Quran video player (Saad Al-Ghamdi, word-by-word highlighting, video export),
   with a **Learn more** panel under the stage showing the notes, Ibn Kathir and seerah for the
   ayah currently playing. The URL tracks the ayah (`/player/2?ayah=255`), so links are shareable.
-- `app/quran` — surah reader, plus `/quran/[surah]/[ayah]` deep-dive pages (word-by-word,
+- `app/quran`, surah reader, plus `/quran/[surah]/[ayah]` deep-dive pages (word-by-word,
   notes, full Ibn Kathir, linked seerah, related duas)
-- `app/tafsir` — the distilled Ibn Kathir notes, all 114 surahs, plus `/tafsir/themes`:
+- `app/tafsir`, the distilled Ibn Kathir notes, all 114 surahs, plus `/tafsir/themes`:
   the owner's own eight categories and fourteen logics, with all 114 surahs tagged against them
-- `app/seerah` — the life of the Prophet ﷺ as a timeline, each chapter linked to its ayahs
-- `app/names` — the ninety-nine names, with Qur'anic references derived from the text
-- `app/duas`, `app/wisdom` — filterable collections
-- `app/api/quran` — server-side proxy to Quran.com and AlQuran.cloud (no CORS issues)
-- `app/api/notes/[surah]`, `app/api/seerah/[surah]` — per-ayah content for the player panel
-- `content/` — all editable content as markdown
-- `CLAUDE.md` — full build brief for the remaining phases
+- `app/seerah`, the life of the Prophet ﷺ as a timeline, each chapter linked to its ayahs
+- `app/names`, the ninety-nine names, with Qur'anic references derived from the text
+- `app/duas`, `app/wisdom`, filterable collections
+- `app/api/quran`, server-side proxy to Quran.com and AlQuran.cloud (no CORS issues)
+- `app/api/notes/[surah]`, `app/api/seerah/[surah]`, per-ayah content for the player panel
+- `content/`, all editable content as markdown
+- `CLAUDE.md`, full build brief for the remaining phases
 
 ## Search
 
-There is no database. `scripts/build-search-index.mjs` builds `data/search-index.json.gz` — 6,236
+There is no database. `scripts/build-search-index.mjs` builds `data/search-index.json.gz`, 6,236
 ayahs (Arabic and translation), plus every tafsir note, seerah chapter, name, dua and wisdom entry
-— and `/api/search` reads it server-side. It runs automatically as `prebuild`, so the index can
+, and `/api/search` reads it server-side. It runs automatically as `prebuild`, so the index can
 never drift from the content, and a deploy needs no network and no credentials.
 
 The Qur'an text it indexes is committed as `data/quran-source.json.gz` (0.5 MB) so the rebuild is
@@ -52,13 +52,13 @@ right material for whatever ayah you are on.
 
 ## Adding content
 
-### A tafsir note — `content/tafsir/{nnn}-{slug}.md`
+### A tafsir note, `content/tafsir/{nnn}-{slug}.md`
 
 One file per surah (Al-Baqarah has two parts). Sections are `##` headings; the ayah numbers in a
 heading (`3. The Throne Verse (255)`) are what bind the section to those ayahs. Where a heading
 carries no numbers, add them to `content/tafsir/_ayah-map.json`.
 
-### A seerah chapter — `content/seerah/{nnn}-{slug}.md`
+### A seerah chapter, `content/seerah/{nnn}-{slug}.md`
 
 ```yaml
 ---
@@ -75,7 +75,7 @@ snippet: "One paragraph, used under the player and beside the ayah."
 ---
 ```
 
-### A dua — `content/duas/{slug}.md`
+### A dua, `content/duas/{slug}.md`
 
 Qur'anic duas are **generated**, never typed by hand:
 
@@ -91,7 +91,7 @@ is cut to the supplication itself.
 Duas from the Sunnah are written by hand and carry `needs_verification: true` until their Arabic
 and reference have been checked against a printed source; the site shows a notice on those.
 
-### A name of Allah — `content/names/{nn}-{slug}.md`
+### A name of Allah, `content/names/{nn}-{slug}.md`
 
 Write the entry with `number`, `slug`, `arabic`, `transliteration`, `meaning_short`, `meanings`,
 `root`, `invocation` and `themes`, then let the references be found rather than recalled:
@@ -101,11 +101,11 @@ node scripts/build-name-occurrences.mjs
 ```
 
 It fetches the Uthmani text once (cached in `reference/`), searches it for each name as a whole
-word — handling the dagger alef and attached prefixes — and writes `quran_occurrences` plus
+word, handling the dagger alef and attached prefixes, and writes `quran_occurrences` plus
 `verbatim_in_quran` back into the frontmatter. Names it cannot find are reported and marked, not
 padded: 23 of the 99 come from the hadith list and appear in the Book only in related forms.
 
-### Wisdom — `content/wisdom/{quote|lesson|story}/{slug}.md`
+### Wisdom, `content/wisdom/{quote|lesson|story}/{slug}.md`
 
 Frontmatter: `type`, `slug`, `title`, `attribution`, `themes`, `related_ayahs`, optional `seerah`
 (entry slugs) and `logic` (`L1`–`L12`, the recurring logics from the Core Themes synthesis).
@@ -119,6 +119,6 @@ Frontmatter: `type`, `slug`, `title`, `attribution`, `themes`, `related_ayahs`, 
 
 Quran text (Uthmani) and word timings: Quran.com API. Translation: Saheeh International via
 AlQuran.cloud. Transliteration: whole-ayah from AlQuran.cloud (`en.transliteration`), per-word from
-the Quran.com API — readers can toggle it in the reader and in the player. Recitation: Saad Al-Ghamdi. Tafsir: Ibn Kathir (abridged, English) via Quran.com,
+the Quran.com API, readers can toggle it in the reader and in the player. Recitation: Saad Al-Ghamdi. Tafsir: Ibn Kathir (abridged, English) via Quran.com,
 with the owner's own distilled notes layered above it. Seerah entries are original prose written
 from the standard sources, which are listed in each file.

@@ -8,7 +8,7 @@ meanings:
   - The Arbitrator
   - The One whose judgement is final
 root: ح ك م
-invocation: Yā Ḥakam — when a wrong cannot be put right here
+invocation: Yā Ḥakam, when a wrong cannot be put right here
 themes:
   - justice
   - hereafter

@@ -9,7 +9,7 @@ meanings:
   - The Unassailable
   - The One who cannot be overcome
 root: ع ز ز
-invocation: Yā ʿAzīz — when you feel small before someone powerful
+invocation: Yā ʿAzīz, when you feel small before someone powerful
 themes:
   - tawhid
   - trials
@@ -33,7 +33,7 @@ verbatim_in_quran: true
 
 The root means to be rare, precious and out of reach. *ʿIzzah* is honour that cannot be taken. Al-ʿAzīz is the One no force can overcome and no scheme can outmanoeuvre.
 
-It is almost always paired in the Qur'an with another name — *al-ʿAzīz al-Ḥakīm*, *al-ʿAzīz ar-Raḥīm* — because unchecked power is not the point being made.
+It is almost always paired in the Qur'an with another name, *al-ʿAzīz al-Ḥakīm*, *al-ʿAzīz ar-Raḥīm*, because unchecked power is not the point being made.
 
 ## Lessons for the believer
 

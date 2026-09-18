@@ -7,7 +7,7 @@ meaning_short: The Originator
 meanings:
   - The One who begins creation
 root: ب د أ
-invocation: Yā Mubdiʾ — at the start of something
+invocation: Yā Mubdiʾ, at the start of something
 themes:
   - creation
   - hereafter
@@ -17,7 +17,7 @@ verbatim_in_quran: false
 ---
 ## Meaning
 
-The One who begins — who brings a thing into existence for the first time, from nothing, with no pattern to copy.
+The One who begins, who brings a thing into existence for the first time, from nothing, with no pattern to copy.
 
 ## Lessons for the believer
 

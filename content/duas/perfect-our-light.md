@@ -18,4 +18,4 @@ transliteration: |-
 favourite: true
 ---
 
-Said by the believers on the Day when their light runs ahead of them and to their right. They already have light and they are asking for it to be completed — which is the position of anyone who has some faith and knows it is not enough.
+Said by the believers on the Day when their light runs ahead of them and to their right. They already have light and they are asking for it to be completed, which is the position of anyone who has some faith and knows it is not enough.

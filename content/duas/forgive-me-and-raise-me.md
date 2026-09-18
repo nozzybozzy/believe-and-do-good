@@ -16,8 +16,8 @@ favourite: true
 needs_verification: true
 ---
 
-Said sitting between the two prostrations — the lowest point of the prayer, repeated in every rak'ah of every day.
+Said sitting between the two prostrations, the lowest point of the prayer, repeated in every rak'ah of every day.
 
-Seven requests, and they cover a whole life. Forgiveness for what is behind. Mercy over it. Guidance for what is ahead. **Mending** — *wa-jburnī*, from the same root as al-Jabbār, the One who sets a broken bone. Protection. Provision. And then to be raised.
+Seven requests, and they cover a whole life. Forgiveness for what is behind. Mercy over it. Guidance for what is ahead. **Mending**, *wa-jburnī*, from the same root as al-Jabbār, the One who sets a broken bone. Protection. Provision. And then to be raised.
 
 Nothing is asked for that a person could obtain by effort. Every one of the seven has to be given.

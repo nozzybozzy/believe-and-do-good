@@ -8,7 +8,7 @@ meanings:
   - The One who raises
   - The Elevator of ranks
 root: ر ف ع
-invocation: Yā Rāfiʿ — when you have been passed over
+invocation: Yā Rāfiʿ, when you have been passed over
 themes:
   - knowledge
   - humility
@@ -24,4 +24,4 @@ To raise and elevate. Of the heavens raised without pillars, of the Ka'bah's fou
 
 The Prophet ﷺ gave the mechanism directly: no one humbles himself for Allah's sake except that Allah raises him.
 
-That is a strange economy and it is stated as a rule. The way up is not the way it looks. Ash-Sharḥ makes the same promise about the Prophet ﷺ himself — *and We raised high for you your mention* — in a surah addressed to him at the point where he had the least standing in Makkah.
+That is a strange economy and it is stated as a rule. The way up is not the way it looks. Ash-Sharḥ makes the same promise about the Prophet ﷺ himself, *and We raised high for you your mention*, in a surah addressed to him at the point where he had the least standing in Makkah.

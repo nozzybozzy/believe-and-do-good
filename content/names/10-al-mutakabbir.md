@@ -8,7 +8,7 @@ meanings:
   - The Majestic
   - The One entitled to greatness
 root: ك ب ر
-invocation: Yā Mutakabbir — when pride is rising in you
+invocation: Yā Mutakabbir, when pride is rising in you
 themes:
   - humility
   - tawhid
@@ -19,7 +19,7 @@ verbatim_in_quran: true
 ---
 ## Meaning
 
-Greatness that belongs to its owner by right. In a human being the same word is a vice — *takabbur*, arrogance — because a creature claiming greatness is claiming what is not his. In Allah it is simple accuracy.
+Greatness that belongs to its owner by right. In a human being the same word is a vice, *takabbur*, arrogance, because a creature claiming greatness is claiming what is not his. In Allah it is simple accuracy.
 
 ## Lessons for the believer
 

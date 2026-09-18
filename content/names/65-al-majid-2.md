@@ -8,7 +8,7 @@ meanings:
   - The Generous in glory
   - The One of abundant honour
 root: م ج د
-invocation: Yā Mājid — in praise
+invocation: Yā Mājid, in praise
 themes:
   - tawhid
   - gratitude
@@ -24,4 +24,4 @@ The same root as al-Majīd, in a different form, and the classical commentators 
 
 That two names in the list share a root is itself instructive. The list is not a set of ninety-nine separate departments. It is one reality described from ninety-nine angles, and some angles are close together.
 
-Which is why the tradition speaks of *counting* them — *iḥṣāʾ* — rather than reciting them. Counting here means taking each one in, and letting it change something.
+Which is why the tradition speaks of *counting* them, *iḥṣāʾ*, rather than reciting them. Counting here means taking each one in, and letting it change something.

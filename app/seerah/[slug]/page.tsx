@@ -11,7 +11,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params;
   const e = seerahBySlug(slug);
   if (!e) return {};
-  return { title: `${e.title} — Seerah — Believe & Do Good`, description: e.snippet };
+  return { title: `${e.title} · Seerah · Believe & Do Good`, description: e.snippet };
 }
 
 export default async function SeerahEntryPage({ params }: { params: Promise<{ slug: string }> }) {
@@ -72,8 +72,8 @@ export default async function SeerahEntryPage({ params }: { params: Promise<{ sl
 
       {e.sources.length > 0 && (
         <p className="source-note">
-          <strong>Sources consulted:</strong> {e.sources.join('; ')}. Written as original prose —
-          facts, chronology and references are taken from these works, the wording is our own.
+          <strong>Sources consulted:</strong> {e.sources.join(', ')}. Written as original prose.
+          Facts, chronology and references are taken from these works. The wording is our own.
         </p>
       )}
     </main>

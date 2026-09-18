@@ -106,7 +106,7 @@ export default function LearnMore({
               {notes === null
                 ? 'Loading…'
                 : notes.hasNotes
-                  ? 'No note is tied to this ayah — the surah notes cover it in passing.'
+                  ? 'No note is tied to this ayah. The surah notes cover it in passing.'
                   : 'No distilled notes for this surah yet.'}
               {notes?.hasNotes && (
                 <>

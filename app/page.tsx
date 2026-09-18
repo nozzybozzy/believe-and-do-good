@@ -15,7 +15,7 @@ export default function Home() {
       <h1>Believe &amp; Do Good</h1>
       <p className="lead">
         Listen to the Quran with word-by-word highlighting, read the translation and Tafsir Ibn Kathir,
-        and explore the Seerah, the Names of Allah, duas and wisdom — all in one place.
+        and explore the Seerah, the Names of Allah, duas and wisdom, all in one place.
       </p>
       <div className="grid">
         <Link href="/player/1" className="card"><div className="num">Listen</div><div className="en">Quran Player</div><div className="meta">Saad Al-Ghamdi · word-by-word · notes for every ayah · export video</div></Link>

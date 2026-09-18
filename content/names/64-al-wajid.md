@@ -8,7 +8,7 @@ meanings:
   - The One who lacks nothing
   - The Resourceful
 root: و ج د
-invocation: Yā Wājid — when you have run out of options
+invocation: Yā Wājid, when you have run out of options
 themes:
   - provision
   - tawhid

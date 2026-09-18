@@ -7,7 +7,7 @@ meaning_short: The Bringer of benefit
 meanings:
   - The One from whom all benefit comes
 root: ن ف ع
-invocation: Yā Nāfiʿ — for benefit in what you do
+invocation: Yā Nāfiʿ, for benefit in what you do
 themes:
   - provision
   - knowledge
@@ -25,10 +25,10 @@ verbatim_in_quran: true
 ---
 ## Meaning
 
-The One from whom every benefit originates — including benefits that arrive through people, medicine, work or effort, none of which generate benefit on their own.
+The One from whom every benefit originates, including benefits that arrive through people, medicine, work or effort, none of which generate benefit on their own.
 
 ## Lessons for the believer
 
-The Prophet ﷺ asked for *ʿilman nāfiʿan*, beneficial knowledge, using this root — and sought refuge from knowledge that does not benefit. Information is not automatically good for you.
+The Prophet ﷺ asked for *ʿilman nāfiʿan*, beneficial knowledge, using this root, and sought refuge from knowledge that does not benefit. Information is not automatically good for you.
 
 And his standard for a life: *the best of people are those most beneficial to people.* The name is a description of Allah and, downstream, a job description.

@@ -7,7 +7,7 @@ meaning_short: The Giver of life
 meanings:
   - The One who brings the dead to life
 root: ح ي ي
-invocation: Yā Muḥyī — for a heart that has gone cold
+invocation: Yā Muḥyī, for a heart that has gone cold
 themes:
   - creation
   - hereafter
@@ -17,7 +17,7 @@ verbatim_in_quran: false
 ---
 ## Meaning
 
-The One who gives life — biological life, and the life the Qur'an means when it calls a heedless person dead and a guided one alive.
+The One who gives life, biological life, and the life the Qur'an means when it calls a heedless person dead and a guided one alive.
 
 ## Lessons for the believer
 

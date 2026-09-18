@@ -18,4 +18,4 @@ transliteration: |-
 favourite: true
 ---
 
-Ibrahim asks for a truthful tongue among later generations — to be spoken of well by people not yet born. Four thousand years later, every Muslim in every prayer sends blessings on him and his family.
+Ibrahim asks for a truthful tongue among later generations, to be spoken of well by people not yet born. Four thousand years later, every Muslim in every prayer sends blessings on him and his family.

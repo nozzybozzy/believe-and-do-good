@@ -18,4 +18,4 @@ transliteration: |-
 favourite: true
 ---
 
-Two requests, and the second is the sharper one: that they not even be present around me. The Qur'an consistently treats the enemy as a suggestion rather than a power — and the countermeasure it prescribes is correspondingly small.
+Two requests, and the second is the sharper one: that they not even be present around me. The Qur'an consistently treats the enemy as a suggestion rather than a power, and the countermeasure it prescribes is correspondingly small.

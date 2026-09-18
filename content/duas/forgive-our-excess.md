@@ -18,4 +18,4 @@ transliteration: |-
 favourite: true
 ---
 
-The prayer of the godly men who fought alongside prophets. Under pressure they did not ask first for victory — they asked first for forgiveness, treating their own sins as the thing most likely to be holding them back.
+The prayer of the godly men who fought alongside prophets. Under pressure they did not ask first for victory, they asked first for forgiveness, treating their own sins as the thing most likely to be holding them back.

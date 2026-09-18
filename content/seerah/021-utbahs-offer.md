@@ -1,7 +1,7 @@
 ---
 order: 21
 slug: utbahs-offer
-title: "Utbah's Offer"
+title: "Utbah's offer"
 period: meccan
 year_ce: 617
 year_hijri: null
@@ -13,11 +13,11 @@ snippet: "Force had failed, so Quraysh tried money. They sent their best negotia
 
 With Hamzah and Umar inside the community, Makkah's leaders concluded that violence was not going to finish this. So they changed instrument and tried an offer.
 
-**Utbah ibn Rabi'ah**, an accomplished and respected man, was sent to negotiate. He made a long and skilful speech: if it is wealth you want, we will make you the richest of us; if it is honour, we will make you our chief; if it is kingship, we will crown you; if it is something medical, we will pay for the finest treatment.
+**Utbah ibn Rabi'ah**, an accomplished and respected man, was sent to negotiate. He made a long and skilful speech: if it is wealth you want, we will make you the richest of us. If it is honour, we will make you our chief. If it is kingship, we will crown you. If it is something medical, we will pay for the finest treatment.
 
 The Prophet ﷺ let him finish. Then he asked whether he had said everything he came to say. Utbah said he had.
 
-Then listen, he said — and recited the opening of **Surah Fussilat**: a revelation from the Most Merciful, a Book whose verses are detailed, an Arabic Qur'an for people who know; bringing good news and warning — *yet most of them turn away and do not hear.* They say: our hearts are covered, our ears are deaf, between us and you is a barrier, so do as you will and we will do as we will.
+Then listen, he said, and recited the opening of **Surah Fussilat**: a revelation from the Most Merciful, a Book whose verses are detailed, an Arabic Qur'an for people who know. Bringing good news and warning, *yet most of them turn away and do not hear.* They say: our hearts are covered, our ears are deaf, between us and you is a barrier, so do as you will and we will do as we will.
 
 Utbah was hearing his own negotiating position read back to him out of a revealed Book.
 

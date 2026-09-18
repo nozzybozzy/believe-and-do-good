@@ -8,7 +8,7 @@ meanings:
   - The Grateful
   - The One who rewards small deeds greatly
 root: ش ك ر
-invocation: Yā Shakūr — when your effort seems too small to matter
+invocation: Yā Shakūr, when your effort seems too small to matter
 themes:
   - gratitude
   - charity
@@ -23,6 +23,6 @@ The word for gratitude, used of God. He does not receive benefit, so His *shukr*
 
 ## Lessons for the believer
 
-This is the name behind the arithmetic of reward — a good deed multiplied ten times and more, a charity the size of a date grown like a hill, a man forgiven for removing a branch from a road, a woman forgiven for giving water to a thirsty dog.
+This is the name behind the arithmetic of reward, a good deed multiplied ten times and more, a charity the size of a date grown like a hill, a man forgiven for removing a branch from a road, a woman forgiven for giving water to a thirsty dog.
 
 Nothing done for Him is priced at what it cost you. It is priced by Him, and He is *Shakūr*.

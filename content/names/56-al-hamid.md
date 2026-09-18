@@ -8,7 +8,7 @@ meanings:
   - The One deserving of all praise
   - The Laudable
 root: ح م د
-invocation: Yā Ḥamīd — in praise that asks for nothing
+invocation: Yā Ḥamīd, in praise that asks for nothing
 themes:
   - gratitude
   - prayer
@@ -32,6 +32,6 @@ The One who is praised, and who deserves praise whether or not anyone offers it.
 
 ## Lessons for the believer
 
-*O mankind, you are the ones in need of Allah, and Allah is al-Ghaniyy, al-Ḥamīd* (35:15) — free of need, and praiseworthy.
+*O mankind, you are the ones in need of Allah, and Allah is al-Ghaniyy, al-Ḥamīd* (35:15), free of need, and praiseworthy.
 
-The pairing is the point. His praiseworthiness does not depend on the praise. Which means every *alḥamdulillāh* changes the one saying it and adds nothing to the One receiving it. That is the correct direction of benefit, and it is worth remembering when gratitude feels like an obligation rather than an opportunity.
+His praiseworthiness does not depend on the praise. Which means every *alḥamdulillāh* changes the one saying it and adds nothing to the One receiving it. That is the correct direction of benefit, and it is worth remembering when gratitude feels like an obligation rather than an opportunity.

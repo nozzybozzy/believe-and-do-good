@@ -18,6 +18,6 @@ needs_verification: true
 
 Eight things, in four pairs, and the pairing is the teaching.
 
-*Worry and grief* — one faces forward, one faces back. *Incapacity and laziness* — one is not being able, one is not bothering. *Cowardice and miserliness* — withholding yourself, withholding your wealth. *Debt and domination* — being owned by an obligation, being owned by a man.
+*Worry and grief*, one faces forward, one faces back. *Incapacity and laziness*, one is not being able, one is not bothering. *Cowardice and miserliness*, withholding yourself, withholding your wealth. *Debt and domination*, being owned by an obligation, being owned by a man.
 
 It is a complete map of the ways a person can be made small, and refuge is sought from all of it in one sentence.

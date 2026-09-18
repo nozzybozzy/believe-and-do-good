@@ -12,8 +12,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const n = nameBySlug(slug);
   if (!n) return {};
   return {
-    title: `${n.transliteration} — ${n.meaningShort} — Believe & Do Good`,
-    description: `${n.transliteration} (${n.arabic}) — ${n.meaningShort}. ${n.meanings.join('; ')}`,
+    title: `${n.transliteration} · ${n.meaningShort} · Believe & Do Good`,
+    description: `${n.transliteration} (${n.arabic}). ${n.meaningShort}. ${n.meanings.join('; ')}`,
   };
 }
 
@@ -57,7 +57,7 @@ export default async function NamePage({ params }: { params: Promise<{ slug: str
         {n.occurrences.length > 0 ? (
           <>
             <p className="note">
-              Where this word appears in the Uthmani text — found by searching it, not from a list.
+              Where this word appears in the Uthmani text, found by searching it, not from a list.
               Some verses use the word of something other than Allah; the reference is to the word.
             </p>
             <div className="actions">
