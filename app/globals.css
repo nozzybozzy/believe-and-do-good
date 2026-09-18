@@ -197,3 +197,23 @@ p.lead { color: var(--muted); font-size: 16px; line-height: 1.6; max-width: 640p
 .seerah-snippet .ss-title { display: block; font-family: 'Lora', serif; font-size: 16px; margin: 4px 0 6px; }
 .seerah-snippet .ss-title:hover { color: var(--gold); }
 .seerah-snippet p { font-family: 'Lora', serif; font-size: 15px; line-height: 1.65; color: rgba(243,234,216,.78); }
+
+/* ---------- Transliteration ---------- */
+.translit { font-size: 16px; line-height: 1.7; color: rgba(255,224,130,.78); font-style: italic; margin-top: 10px; }
+html[data-translit="off"] .translit { display: none; }
+.wbw-word { display: inline-flex; flex-direction: column; align-items: center; gap: 2px; background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.1); border-radius: 8px; padding: 6px 12px; direction: ltr; text-align: center; }
+.wbw-word .ar { font-size: 26px; }
+.wbw-tr { font-size: 12px; color: rgba(255,224,130,.8); font-style: italic; }
+.wbw-en { font-size: 12px; color: var(--muted); max-width: 130px; }
+
+/* ---------- Names of Allah ---------- */
+.names-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 12px; margin-top: 26px; }
+.name-card { display: flex; flex-direction: column; gap: 2px; background: var(--navy-2); border: 1px solid rgba(255,255,255,.08); border-radius: 12px; padding: 14px 16px; transition: border-color .15s, transform .15s; }
+.name-card:hover { border-color: var(--gold-dim); transform: translateY(-2px); }
+.name-num { font-size: 11px; letter-spacing: 2px; color: var(--muted); }
+.name-ar { font-size: 28px; color: var(--gold); text-align: right; line-height: 1.5; }
+.name-tr { font-size: 15px; margin-top: 2px; }
+.name-meaning { font-size: 12px; color: var(--muted); }
+.name-hero { margin-top: 10px; }
+.name-hero-ar { font-size: 56px; color: var(--gold); line-height: 1.6; text-align: right; }
+.name-body { margin-top: 24px; max-width: 720px; }

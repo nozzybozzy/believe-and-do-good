@@ -4,6 +4,7 @@ import { getSurahBundle, getIbnKathir } from '@/lib/quran';
 import { sectionForAyah, tafsirFor } from '@/lib/tafsir';
 import { seerahForAyah } from '@/lib/seerah';
 import { duasForAyah } from '@/lib/duas';
+import { namesForAyah } from '@/lib/names';
 import { surahMeta } from '@/lib/surahs';
 
 export const revalidate = 86400;
@@ -31,6 +32,7 @@ export default async function AyahPage({ params }: { params: Promise<{ surah: st
   const hasNotes = tafsirFor(n).length > 0;
   const stories = seerahForAyah(n, a);
   const duas = duasForAyah(n, a);
+  const names = namesForAyah(n, a);
   const ibnKathir = await getIbnKathir(n, a).catch(() => '');
 
   return (
@@ -51,6 +53,7 @@ export default async function AyahPage({ params }: { params: Promise<{ surah: st
 
       <article className="ayah" style={{ borderBottom: 'none' }}>
         <div className="ar-text ar">{verse.full} <span className="badge">{a}</span></div>
+        {verse.translit && <div className="translit">{verse.translit}</div>}
         <div className="en-text">{verse.english}</div>
       </article>
 
@@ -59,7 +62,11 @@ export default async function AyahPage({ params }: { params: Promise<{ surah: st
           <h4>Word by word</h4>
           <div className="wbw">
             {verse.words.map((w, i) => (
-              <span key={i} className="wbw-word ar">{w}</span>
+              <span key={i} className="wbw-word">
+                <span className="ar">{w}</span>
+                {verse.wordTranslit[i] && <span className="wbw-tr">{verse.wordTranslit[i]}</span>}
+                {verse.wordGloss[i] && <span className="wbw-en">{verse.wordGloss[i]}</span>}
+              </span>
             ))}
           </div>
         </section>
@@ -104,6 +111,19 @@ export default async function AyahPage({ params }: { params: Promise<{ surah: st
               <Link href={`/seerah/${s.slug}`} className="btn" style={{ marginTop: 10 }}>Read the chapter →</Link>
             </div>
           ))}
+        </section>
+      )}
+
+      {names.length > 0 && (
+        <section>
+          <h2>Names of Allah in this ayah</h2>
+          <div className="actions">
+            {names.map(nm => (
+              <Link key={nm.slug} href={`/names/${nm.slug}`} className="btn gold">
+                <span className="ar" style={{ fontSize: 18 }}>{nm.arabic}</span> {nm.transliteration} — {nm.meaningShort}
+              </Link>
+            ))}
+          </div>
         </section>
       )}
 

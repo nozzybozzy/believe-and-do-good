@@ -3,6 +3,7 @@ import { getSurahBundle } from '@/lib/quran';
 import { tafsirFor, notesByAyah, readingMinutes } from '@/lib/tafsir';
 import { seerahSnippetsJson } from '@/lib/seerah';
 import TafsirPanel from '@/components/quran/TafsirPanel';
+import ReaderPrefs from '@/components/quran/ReaderPrefs';
 
 export const revalidate = 86400;
 
@@ -33,6 +34,7 @@ export default async function SurahPage({ params }: { params: Promise<{ surah: s
         {docs.length > 0 && <Link href={`/tafsir/${n}`} className="btn gold">Tafsir notes</Link>}
         {n > 1 && <Link href={`/quran/${n - 1}`} className="btn">← Previous</Link>}
         {n < 114 && <Link href={`/quran/${n + 1}`} className="btn">Next →</Link>}
+        <ReaderPrefs />
       </div>
 
       {docs.length > 0 && (
@@ -48,6 +50,7 @@ export default async function SurahPage({ params }: { params: Promise<{ surah: s
         return (
           <article key={a.key} id={`ayah-${a.numberInSurah}`} className="ayah">
             <div className="ar-text ar">{a.full} <span className="badge">{a.numberInSurah}</span></div>
+            {a.translit && <div className="translit">{a.translit}</div>}
             <div className="en-text">{a.english}</div>
 
             {here.map(({ section: s, first }) => {

@@ -4,7 +4,7 @@ import LearnMore from './LearnMore';
 import './player.css';
 
 type Chapter = { id: number; name_arabic: string; name_simple: string; translated_name: { name: string } };
-type Ayah = { key: string; numberInSurah: number; words: string[]; full: string; english: string; from: number | null; to: number | null; segs: number[][] };
+type Ayah = { key: string; numberInSurah: number; words: string[]; full: string; english: string; translit: string; wordTranslit: string[]; wordGloss: string[]; from: number | null; to: number | null; segs: number[][] };
 type Bundle = { chapter: Chapter; audioUrl: string | null; ayahs: Ayah[] };
 
 const DEFAULT_BG = 'https://images.unsplash.com/photo-1466027397211-20d0f2449a3d?w=1920&q=80';
@@ -20,6 +20,7 @@ export default function QuranPlayer({ initialSurah, initialAyah = 1 }: { initial
   const [status, setStatus] = useState('Loading…');
   const [bg, setBg] = useState<{ type: 'image' | 'video'; url: string }>({ type: 'image', url: DEFAULT_BG });
   const [exporting, setExporting] = useState(false);
+  const [showTranslit, setShowTranslit] = useState(true);
 
   const audioRef = useRef<HTMLAudioElement>(null);
   const bgImgRef = useRef<HTMLImageElement>(null);
@@ -192,6 +193,7 @@ export default function QuranPlayer({ initialSurah, initialAyah = 1 }: { initial
           {cur?.words.map((w, i) => <span key={i} className={'qp-word' + (i === wordIdx ? ' active' : '')}>{w}</span>)}
           {cur && <span className="qp-badge">{cur.numberInSurah}</span>}
         </div>
+        {showTranslit && cur?.translit && <div className="qp-translit">{cur.translit}</div>}
         <div className="qp-english">{cur?.english}</div>
       </div>
 
@@ -207,6 +209,14 @@ export default function QuranPlayer({ initialSurah, initialAyah = 1 }: { initial
           <button className="qp-btn" onClick={() => seekTo(idx + 1)} title="Next ayah"><svg viewBox="0 0 24 24"><path d="M6 18l8.5-6L6 6v12zm2-8.14 5.94 2.14L8 14.14V9.86zM16 6h2v12h-2z"/></svg></button>
         </div>
         <div className="qp-right">
+          <button
+            className="qp-upload"
+            onClick={() => setShowTranslit(v => !v)}
+            aria-pressed={showTranslit}
+            title="Show or hide the transliteration line"
+          >
+            Translit {showTranslit ? 'on' : 'off'}
+          </button>
           <label className="qp-upload">Background<input type="file" accept="image/*,video/*" hidden onChange={onBgFile} /></label>
           <button className="qp-dl" disabled={!bundle || exporting} onClick={exportVideo}>{DL_ICON} {exporting ? 'Exporting…' : 'Export Video'}</button>
         </div>

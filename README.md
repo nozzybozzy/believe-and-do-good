@@ -20,6 +20,7 @@ Open http://localhost:3000
   notes, full Ibn Kathir, linked seerah, related duas)
 - `app/tafsir` — the distilled Ibn Kathir notes, all 114 surahs
 - `app/seerah` — the life of the Prophet ﷺ as a timeline, each chapter linked to its ayahs
+- `app/names` — the ninety-nine names, with Qur'anic references derived from the text
 - `app/duas`, `app/wisdom` — filterable collections
 - `app/api/quran` — server-side proxy to Quran.com and AlQuran.cloud (no CORS issues)
 - `app/api/notes/[surah]`, `app/api/seerah/[surah]` — per-ayah content for the player panel
@@ -74,6 +75,20 @@ is cut to the supplication itself.
 Duas from the Sunnah are written by hand and carry `needs_verification: true` until their Arabic
 and reference have been checked against a printed source; the site shows a notice on those.
 
+### A name of Allah — `content/names/{nn}-{slug}.md`
+
+Write the entry with `number`, `slug`, `arabic`, `transliteration`, `meaning_short`, `meanings`,
+`root`, `invocation` and `themes`, then let the references be found rather than recalled:
+
+```bash
+node scripts/build-name-occurrences.mjs
+```
+
+It fetches the Uthmani text once (cached in `reference/`), searches it for each name as a whole
+word — handling the dagger alef and attached prefixes — and writes `quran_occurrences` plus
+`verbatim_in_quran` back into the frontmatter. Names it cannot find are reported and marked, not
+padded: 23 of the 99 come from the hadith list and appear in the Book only in related forms.
+
 ### Wisdom — `content/wisdom/{quote|lesson|story}/{slug}.md`
 
 Frontmatter: `type`, `slug`, `title`, `attribution`, `themes`, `related_ayahs`, optional `seerah`
@@ -87,6 +102,7 @@ Frontmatter: `type`, `slug`, `title`, `attribution`, `themes`, `related_ayahs`, 
 ## Attribution
 
 Quran text (Uthmani) and word timings: Quran.com API. Translation: Saheeh International via
-AlQuran.cloud. Recitation: Saad Al-Ghamdi. Tafsir: Ibn Kathir (abridged, English) via Quran.com,
+AlQuran.cloud. Transliteration: whole-ayah from AlQuran.cloud (`en.transliteration`), per-word from
+the Quran.com API — readers can toggle it in the reader and in the player. Recitation: Saad Al-Ghamdi. Tafsir: Ibn Kathir (abridged, English) via Quran.com,
 with the owner's own distilled notes layered above it. Seerah entries are original prose written
 from the standard sources, which are listed in each file.
