@@ -16,7 +16,7 @@ author: owner
 
 Ibn Kathir opens with the surah's protective power — unusual in its concreteness:
 
-- **Tranquility descends with it.** A man was reciting Al-Kahf when his animal grew restless and a fog or cloud appeared overhead. The Prophet ﺺ told him: *"Keep on reciting… for this is the tranquility (Sakinah) which descends when one reads Qur'an."* (Two Sahihs. The reciter was Usayd bin Al-Hudayr.)
+- **Tranquility descends with it.** A man was reciting Al-Kahf when his animal grew restless and a fog or cloud appeared overhead. The Prophet ﷺ told him: *"Keep on reciting… for this is the tranquility (Sakinah) which descends when one reads Qur'an."* (Two Sahihs. The reciter was Usayd bin Al-Hudayr.)
 - **Protection from the Dajjal.** *"Whoever memorizes ten Ayat from the beginning of Surah Al-Kahf will be protected from the Dajjal."* (Muslim, Abu Dawud, An-Nasa'i, At-Tirmidhi — At-Tirmidhi's version says three Ayat.)
 - **Light from Friday to Friday.** *"Whoever recites Surah Al-Kahf on Friday, it will illuminate him with light from one Friday to the next."* (Al-Hakim: Sahih chain, though not in Bukhari/Muslim.)
 - **Light on the Day of Resurrection** for whoever recites it as it was revealed (Al-Bayhaqi).
@@ -27,7 +27,7 @@ Ibn Kathir opens with the surah's protective power — unusual in its concretene
 
 This is the surah's origin story, and it explains its shape.
 
-The Quraysh sent **An-Nadr bin Al-Harith** and **Uqbah bin Abi Mu'it** to the Jewish rabbis of Al-Madinah to test Muhammad ﺺ. The rabbis gave them three questions:
+The Quraysh sent **An-Nadr bin Al-Harith** and **Uqbah bin Abi Mu'it** to the Jewish rabbis of Al-Madinah to test Muhammad ﷺ. The rabbis gave them three questions:
 
 | Question | Answered in |
 |---|---|
@@ -35,7 +35,7 @@ The Quraysh sent **An-Nadr bin Al-Harith** and **Uqbah bin Abi Mu'it** to the Je
 | A man who traveled to the east and west of the earth — who was he? | **Al-Kahf** (Dhul-Qarnayn) |
 | What is the **Ruh** (the spirit)? | **Al-Isra' 17:85** |
 
-The Prophet ﺺ said, *"I will tell you tomorrow"* — **but did not say "If Allah wills."** Revelation then stopped for fifteen days. Jibril did not come. Makkah began to mock him, and he grieved.
+The Prophet ﷺ said, *"I will tell you tomorrow"* — **but did not say "If Allah wills."** Revelation then stopped for fifteen days. Jibril did not come. Makkah began to mock him, and he grieved.
 
 Then the surah came down: the answers, **and a rebuke** — both for the delay's cause (18:23–24) and for grieving over the idolators (18:6).
 
@@ -49,7 +49,7 @@ Then the surah came down: the answers, **and a rebuke** — both for the delay's
 
 **Do not destroy yourself over them (18:6).** Allah consoles His Messenger — Qatadah: *"killing yourself with anger and grief over them"*; Mujahid: *"with anxiety."* The instruction is: convey the Message. Whoever is guided is guided for himself; whoever strays, strays against himself.
 
-**The world as an adornment for a test (18:7–8).** Ibn Kathir's summary is blunt: this world is *a place of trial, not a place of settlement.* The Prophet ﺺ said:
+**The world as an adornment for a test (18:7–8).** Ibn Kathir's summary is blunt: this world is *a place of trial, not a place of settlement.* The Prophet ﷺ said:
 
 > *"This world is sweet and green, and Allah makes you generations succeeding one another, so He is watching what you will do."*
 
@@ -69,7 +69,7 @@ Ibn Kathir's opening note is a rebuke to wonder-seeking: *"their case was not so
 
 ### Young men, not elders
 
-They were **youths** — Ibn Kathir notes they were *more accepting of the truth and more guided than the elders who had become stubbornly set in their ways.* He draws the parallel directly: **most of those who responded to the Prophet ﺺ were young; most of the elders of Quraysh kept to their religion.**
+They were **youths** — Ibn Kathir notes they were *more accepting of the truth and more guided than the elders who had become stubbornly set in their ways.* He draws the parallel directly: **most of those who responded to the Prophet ﷺ were young; most of the elders of Quraysh kept to their religion.**
 
 **"And We increased them in guidance" (18:13).** Al-Bukhari and others took this Ayah as evidence that **faith increases, varies in degree, and fluctuates** — supported by 47:17, 9:124, 48:4.
 
@@ -85,7 +85,7 @@ They stood before the king, told him the truth, and refused: *"Never shall we ca
 
 He then extracts a *fiqh* point: **fleeing with one's religion is prescribed in times of trial and persecution** — the hadith about the best wealth being sheep, followed to mountaintops, fleeing for the sake of one's religion. But he immediately qualifies it: **seclusion is not prescribed at any other time**, because one loses congregational and Friday prayers by it.
 
-He also draws the greater parallel: **the cave of Thawr.** When the Quraysh passed right by the Prophet ﺺ and Abu Bakr and did not see them — *"O Abu Bakr, what do you think of two who have Allah as their third?"* Ibn Kathir's verdict: **"The story of this cave (Thawr) is far greater and more wondrous than that of the people of the Cave."**
+He also draws the greater parallel: **the cave of Thawr.** When the Quraysh passed right by the Prophet ﷺ and Abu Bakr and did not see them — *"O Abu Bakr, what do you think of two who have Allah as their third?"* Ibn Kathir's verdict: **"The story of this cave (Thawr) is far greater and more wondrous than that of the people of the Cave."**
 
 ### The details of their sleep
 
@@ -137,7 +137,7 @@ He swore he would visit seventy wives that night so each would bear a son who wo
 
 ## 6. Sit With the Poor Believers (18:27–31)
 
-The nobles of Quraysh asked the Prophet ﺺ to sit with them alone — without Bilal, Ammar, Suhayb, Khabbab, Ibn Mas'ud. Sa'd bin Abi Waqqas (Muslim) recalls being one of six the idolators wanted removed *"so they will not offend us."*
+The nobles of Quraysh asked the Prophet ﷺ to sit with them alone — without Bilal, Ammar, Suhayb, Khabbab, Ibn Mas'ud. Sa'd bin Abi Waqqas (Muslim) recalls being one of six the idolators wanted removed *"so they will not offend us."*
 
 Allah's answer is 18:28 — **keep yourself patiently with those who call on their Lord morning and afternoon, seeking His Face** — and 6:52. Ibn Abbas on *"let not your eyes overlook them"*: **do not favor others over them; do not seek the people of nobility and wealth instead of them.**
 
@@ -173,7 +173,7 @@ Then the correction he should have made:
 
 > **"It was better for you to say, when you entered your garden: 'Ma sha Allah, la quwwata illa billah' — That which Allah wills! There is no power but with Allah!"**
 
-One of the Salaf: *"Whoever is delighted with something in his circumstances or his wealth or his children, let him say it."* And the Prophet ﺺ to Abu Musa: *"Shall I not tell you about some of the treasure of Paradise? La hawla wa la quwwata illa billah."*
+One of the Salaf: *"Whoever is delighted with something in his circumstances or his wealth or his children, let him say it."* And the Prophet ﷺ to Abu Musa: *"Shall I not tell you about some of the treasure of Paradise? La hawla wa la quwwata illa billah."*
 
 **The ruin.** Husban from the sky (a punishment / a mighty rain), the garden a barren slippery earth, the water sunk beyond reach. Qatadah on his gesture of regret: *"He was clasping his hands together in grief for the wealth he had lost."* His only words left: **"Would that I had ascribed no partners to my Lord!"** — and no entourage to help him. The boast is dismantled in the same terms it was made.
 
@@ -221,7 +221,7 @@ He had worshipped like the angels and resembled them, so he was included in the 
 
 **"Will you then take him and his offspring as protectors rather than Me — while they are enemies to you?"** And the false gods witnessed nothing: not the creation of the heavens and the earth, not even **their own creation**, since they did not yet exist.
 
-**"But, man is ever more quarrelsome than anything" (18:54).** The Prophet ﺺ came at night to Ali and Fatimah and asked, *"Are you not going to pray?"* Ali answered that their souls were in Allah's hand — if He willed to wake them, He would. The Prophet ﺺ walked away **slapping his thigh** and reciting this Ayah. (Two Sahihs.)
+**"But, man is ever more quarrelsome than anything" (18:54).** The Prophet ﷺ came at night to Ali and Fatimah and asked, *"Are you not going to pray?"* Ali answered that their souls were in Allah's hand — if He willed to wake them, He would. The Prophet ﷺ walked away **slapping his thigh** and reciting this Ayah. (Two Sahihs.)
 
 ---
 
@@ -271,7 +271,7 @@ And **"I did them not of my own accord"** — which, with 18:65 (*"one of Our se
 
 **The name.** *"He was called Al-Khidr because he sat on a barren Farwah and it turned green (Khadra') beneath him."* (Al-Bukhari, from Abu Hurayrah.) *Farwah* — a patch of withered vegetation.
 
-**The Prophet ﺺ's regret:** *"We wish that Musa had been patient so that Allah would have told us more about both of them."* And Ubayy bin Ka'b: *"May the mercy of Allah be upon us and upon Musa. If he had stayed with his companion he would have seen wonders."*
+**The Prophet ﷺ's regret:** *"We wish that Musa had been patient so that Allah would have told us more about both of them."* And Ubayy bin Ka'b: *"May the mercy of Allah be upon us and upon Musa. If he had stayed with his companion he would have seen wonders."*
 
 ---
 
@@ -303,7 +303,7 @@ His refusal is the mark of the man: ***"That in which my Lord had established me
 
 **They could neither scale it nor dig through it.** Ibn Kathir points out the Arabic itself carries the difficulty: the more intensive verb form is used for the harder action — *digging through* is harder than *climbing over*. (He notes the same principle in 18:78 vs 18:82: the more intensive form is used while the confusion is still unresolved.)
 
-**But it will not last.** *"This is a mercy from my Lord, but when the promise of my Lord comes, He shall **Dakka'** it down to the ground"* — flatten it, as a camel's back with no hump; as the mountain was made *Dakkan* in 7:143. Zaynab bint Jahsh reported that the Prophet ﺺ woke red in the face:
+**But it will not last.** *"This is a mercy from my Lord, but when the promise of my Lord comes, He shall **Dakka'** it down to the ground"* — flatten it, as a camel's back with no hump; as the mountain was made *Dakkan* in 7:143. Zaynab bint Jahsh reported that the Prophet ﷺ woke red in the face:
 
 > *"La ilaha illallah! Woe to the Arabs from the evil that has approached. Today a hole has been opened in the barrier of Ya'juj and Ma'juj like this"* — and he made a circle with his index finger and thumb.
 
@@ -327,7 +327,7 @@ Mus'ab asked his father **Sa'd bin Abi Waqqas** whether the Ayah meant the Harur
 
 *"We shall assign no weight for them"* — the Balance is empty of goodness. *"A huge fat man will come forward on the Day of Resurrection and he will weigh no more than the wing of a gnat to Allah."* (Bukhari, Muslim.)
 
-**Against which: Al-Firdaws** — Qatadah and others, attributed to the Prophet ﺺ: *a hill in Paradise, at its center, the best of it.* *"If you ask Allah for Paradise, then ask Him for Al-Firdaws, for it is the highest part of Paradise, in the middle of Paradise, and from it spring the rivers of Paradise."* And they will **never want to leave** — despite an eternal stay, they will never choose to move.
+**Against which: Al-Firdaws** — Qatadah and others, attributed to the Prophet ﷺ: *a hill in Paradise, at its center, the best of it.* *"If you ask Allah for Paradise, then ask Him for Al-Firdaws, for it is the highest part of Paradise, in the middle of Paradise, and from it spring the rivers of Paradise."* And they will **never want to leave** — despite an eternal stay, they will never choose to move.
 
 ### The sea as ink (18:109)
 
@@ -337,11 +337,11 @@ Ibn Kathir: *"No one can comprehend the greatness of Allah or praise Him as He d
 
 ### The final verse: the two conditions (18:110)
 
-***"Say: I am only a man like you."*** Ibn Kathir has the Prophet ﺺ say to the idolators: *I did not know the Unseen — the story of the people of the Cave, of Dhul-Qarnayn — I did not know any of this except for what Allah made known to me.* **The surah ends by returning to the three questions that began it.**
+***"Say: I am only a man like you."*** Ibn Kathir has the Prophet ﷺ say to the idolators: *I did not know the Unseen — the story of the people of the Cave, of Dhul-Qarnayn — I did not know any of this except for what Allah made known to me.* **The surah ends by returning to the three questions that began it.**
 
 Then the two conditions on which every deed is accepted:
 
-1. **"Let him work righteousness"** — in accordance with the prescribed way of the Messenger ﺺ.
+1. **"Let him work righteousness"** — in accordance with the prescribed way of the Messenger ﷺ.
 2. **"And associate none as a partner in the worship of his Lord"** — intent for the sake of Allah alone.
 
 And the warning attached to the second:
