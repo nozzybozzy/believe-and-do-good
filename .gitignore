@@ -8,3 +8,6 @@ reference/*
 !reference/.gitkeep
 __pycache__/
 *.pyc
+
+# typescript incremental build cache
+tsconfig.tsbuildinfo
