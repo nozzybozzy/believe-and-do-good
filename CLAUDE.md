@@ -5,6 +5,15 @@ This repo was scaffolded from Claude.ai. Phase 0 (scaffold, proxy, player, reade
 Remaining phases, in order. Pause for owner review after each.
 
 ## Phase 2 — Owner's content import
+
+**Status (Sept 2026): tafsir done.** All 114 docs from the "Quran Tafsir" project are in `content/tafsir/`
+(one file per surah, body verbatim). They are whole-surah essays, so they were kept as one file each rather than
+split per ayah: `lib/tafsir.ts` splits them into sections and maps each section to its ayat from the heading
+(`(67:3–4)`), a tight cluster of refs in the body, or `content/tafsir/_ayah-map.json`. ~93% of ayat are covered.
+Built: `/tafsir` (search + filters), `/tafsir/[surah]` (static, with contents), notes above Ibn Kathir in
+`/quran/[surah]`. The project held no duas, quotes or wisdom files, so 2.2 is still waiting on that content.
+Still to do: theme tagging + `/tafsir/themes/[slug]`, the "Learn more" panel under the player (2.4).
+
 The owner's tafsir notes, Ibn Kathir upload, and quotes/duas/wisdom live in a Claude Project called "Quran Tafsir". When they are provided (as files in `reference/` or pasted into chat):
 1. Convert tafsir notes → `content/tafsir/{surah:03}/{surah:03}-{ayah:03}.md` with frontmatter: surah, ayah_from, ayah_to, title, themes[], names_of_allah[], seerah[], duas[], sources[]. Anything unplaceable → `content/tafsir/_unsorted/`.
 2. Convert quotes/duas/wisdom → `content/duas/*.md` and `content/wisdom/{quote|lesson|story}/*.md`, `favourite: true`.
