@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { surahMeta } from '@/lib/surahs';
 import { tafsirFor, readingMinutes, stripMd, type AyahRange, type TafsirSection } from '@/lib/tafsir';
+import { themeFor, categoryByKey, logicByKey } from '@/lib/themes';
 
 export const dynamicParams = false;
 
@@ -56,6 +57,7 @@ export default async function SurahTafsir({ params }: Props) {
   const multi = head.surahs.length > 1;
   const minutes = readingMinutes(docs);
   const others = head.surahs.filter(x => x !== n);
+  const theme = themeFor(n);
 
   return (
     <main className="container wide">
@@ -70,9 +72,39 @@ export default async function SurahTafsir({ params }: Props) {
           These notes cover {head.surahs.map(x => surahMeta(x)?.name).join(' and ')} together.
         </p>
       )}
+      {theme && (
+        <div className="theme-tags">
+          <span className="label">Themes</span>
+          {[theme.primary, ...theme.secondary].map((k, i) => {
+            const c = categoryByKey(k);
+            if (!c) return null;
+            return (
+              <Link
+                key={k}
+                href={`/tafsir/themes/${k.replace('§', 'c')}`}
+                className={'chip small' + (i === 0 ? ' on' : '')}
+                title={c.subtitle}
+              >
+                {k} {c.title}
+              </Link>
+            );
+          })}
+          {theme.logics.map(k => {
+            const l = logicByKey(k);
+            if (!l) return null;
+            return (
+              <Link key={k} href={`/tafsir/themes/${l.slug}`} className="chip small" title={l.gist}>
+                {k} {l.title}
+              </Link>
+            );
+          })}
+        </div>
+      )}
+
       <div className="actions">
         <Link href={`/quran/${n}`} className="btn gold">Read the surah</Link>
         <Link href={`/player/${n}`} className="btn">▶ Listen</Link>
+        <Link href="/tafsir/themes" className="btn">Themes</Link>
         {n > 1 && <Link href={`/tafsir/${n - 1}`} className="btn">← {surahMeta(n - 1)?.name}</Link>}
         {n < 114 && <Link href={`/tafsir/${n + 1}`} className="btn">{surahMeta(n + 1)?.name} →</Link>}
       </div>

@@ -224,3 +224,20 @@ html[data-translit="off"] .translit { display: none; }
 .hit-kind { font-size: 11px; letter-spacing: 2px; text-transform: uppercase; color: var(--muted); }
 .hit-title { display: block; font-family: 'Lora', serif; font-size: 18px; margin-top: 3px; transition: color .15s; }
 .hit-snippet { display: block; font-family: 'Lora', serif; font-size: 15px; line-height: 1.6; color: rgba(243,234,216,.72); margin-top: 6px; max-width: 760px; }
+
+/* ---------- Themes (the owner's Core Themes framework) ---------- */
+.theme-tags { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-top: 16px; }
+.theme-tags .label { font-size: 11px; letter-spacing: 2px; text-transform: uppercase; color: var(--muted); }
+.theme-tags a.chip { text-decoration: none; }
+.theme-table { margin-top: 18px; border-top: 1px solid rgba(255,255,255,.08); }
+.theme-row { display: grid; grid-template-columns: 44px minmax(0,1fr) 120px minmax(0,1fr); gap: 12px; align-items: baseline; padding: 9px 4px; border-bottom: 1px solid rgba(255,255,255,.06); font-size: 14px; }
+.theme-row:hover { background: rgba(255,255,255,.03); }
+.theme-row:hover .tr-name { color: var(--gold); }
+.tr-num { color: var(--muted); font-size: 12px; }
+.tr-name { font-family: 'Lora', serif; font-size: 16px; }
+.tr-cat { color: var(--gold); opacity: .85; }
+.tr-logics { color: var(--muted); font-size: 13px; }
+@media (max-width: 700px) {
+  .theme-row { grid-template-columns: 34px minmax(0,1fr); }
+  .tr-cat, .tr-logics { grid-column: 2; }
+}

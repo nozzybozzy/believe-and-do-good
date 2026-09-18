@@ -18,7 +18,8 @@ Open http://localhost:3000
   ayah currently playing. The URL tracks the ayah (`/player/2?ayah=255`), so links are shareable.
 - `app/quran` — surah reader, plus `/quran/[surah]/[ayah]` deep-dive pages (word-by-word,
   notes, full Ibn Kathir, linked seerah, related duas)
-- `app/tafsir` — the distilled Ibn Kathir notes, all 114 surahs
+- `app/tafsir` — the distilled Ibn Kathir notes, all 114 surahs, plus `/tafsir/themes`:
+  the owner's own eight categories and fourteen logics, with all 114 surahs tagged against them
 - `app/seerah` — the life of the Prophet ﷺ as a timeline, each chapter linked to its ayahs
 - `app/names` — the ninety-nine names, with Qur'anic references derived from the text
 - `app/duas`, `app/wisdom` — filterable collections

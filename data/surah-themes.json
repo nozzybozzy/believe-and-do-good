@@ -1,0 +1,1263 @@
+{
+ "1": {
+  "name": "Al-Fatihah",
+  "primary": "§1",
+  "secondary": [
+   "§0",
+   "§7"
+  ],
+  "logics": [
+   "L6",
+   "L8"
+  ]
+ },
+ "2": {
+  "name": "Al-Baqarah",
+  "primary": "§6",
+  "secondary": [
+   "§4",
+   "§1"
+  ],
+  "logics": [
+   "L2",
+   "L6",
+   "L10"
+  ]
+ },
+ "3": {
+  "name": "Al-'Imran",
+  "primary": "§4",
+  "secondary": [
+   "§1",
+   "§6"
+  ],
+  "logics": [
+   "L12",
+   "L6"
+  ]
+ },
+ "4": {
+  "name": "An-Nisa'",
+  "primary": "§6",
+  "secondary": [
+   "§5"
+  ],
+  "logics": [
+   "L2",
+   "L7",
+   "L10"
+  ]
+ },
+ "5": {
+  "name": "Al-Ma'idah",
+  "primary": "§6",
+  "secondary": [
+   "§4"
+  ],
+  "logics": [
+   "L6",
+   "L10"
+  ]
+ },
+ "6": {
+  "name": "Al-An'am",
+  "primary": "§1",
+  "secondary": [
+   "§2"
+  ],
+  "logics": [
+   "L7",
+   "L11"
+  ]
+ },
+ "7": {
+  "name": "Al-A'raf",
+  "primary": "§4",
+  "secondary": [
+   "§3"
+  ],
+  "logics": [
+   "L1",
+   "L12"
+  ]
+ },
+ "8": {
+  "name": "Al-Anfal",
+  "primary": "§6",
+  "secondary": [
+   "§3"
+  ],
+  "logics": [
+   "L4",
+   "L13"
+  ]
+ },
+ "9": {
+  "name": "At-Tawbah",
+  "primary": "§6",
+  "secondary": [
+   "§5"
+  ],
+  "logics": [
+   "L1",
+   "L2"
+  ]
+ },
+ "10": {
+  "name": "Yunus",
+  "primary": "§2",
+  "secondary": [
+   "§4"
+  ],
+  "logics": [
+   "L11",
+   "L4"
+  ]
+ },
+ "11": {
+  "name": "Hud",
+  "primary": "§4",
+  "secondary": [
+   "§7"
+  ],
+  "logics": [
+   "L1",
+   "L12"
+  ]
+ },
+ "12": {
+  "name": "Yusuf",
+  "primary": "§4",
+  "secondary": [
+   "§5"
+  ],
+  "logics": [
+   "L4",
+   "L13"
+  ]
+ },
+ "13": {
+  "name": "Ar-Ra'd",
+  "primary": "§2",
+  "secondary": [
+   "§1"
+  ],
+  "logics": [
+   "L10",
+   "L12"
+  ]
+ },
+ "14": {
+  "name": "Ibrahim",
+  "primary": "§4",
+  "secondary": [
+   "§5"
+  ],
+  "logics": [
+   "L11",
+   "L12"
+  ]
+ },
+ "15": {
+  "name": "Al-Hijr",
+  "primary": "§0",
+  "secondary": [
+   "§4"
+  ],
+  "logics": [
+   "L12",
+   "L13"
+  ]
+ },
+ "16": {
+  "name": "An-Nahl",
+  "primary": "§2",
+  "secondary": [
+   "§5"
+  ],
+  "logics": [
+   "L11",
+   "L1"
+  ]
+ },
+ "17": {
+  "name": "Al-Isra'",
+  "primary": "§6",
+  "secondary": [
+   "§4"
+  ],
+  "logics": [
+   "L2",
+   "L6"
+  ]
+ },
+ "18": {
+  "name": "Al-Kahf",
+  "primary": "§5",
+  "secondary": [
+   "§3"
+  ],
+  "logics": [
+   "L4",
+   "L13",
+   "L14"
+  ]
+ },
+ "19": {
+  "name": "Maryam",
+  "primary": "§4",
+  "secondary": [
+   "§1"
+  ],
+  "logics": [
+   "L4",
+   "L8"
+  ]
+ },
+ "20": {
+  "name": "Ta-Ha",
+  "primary": "§4",
+  "secondary": [
+   "§5"
+  ],
+  "logics": [
+   "L12",
+   "L10"
+  ]
+ },
+ "21": {
+  "name": "Al-Anbiya'",
+  "primary": "§4",
+  "secondary": [
+   "§1"
+  ],
+  "logics": [
+   "L8",
+   "L6"
+  ]
+ },
+ "22": {
+  "name": "Al-Hajj",
+  "primary": "§6",
+  "secondary": [
+   "§2"
+  ],
+  "logics": [
+   "L10",
+   "L2"
+  ]
+ },
+ "23": {
+  "name": "Al-Mu'minun",
+  "primary": "§5",
+  "secondary": [
+   "§7"
+  ],
+  "logics": [
+   "L6",
+   "L14"
+  ]
+ },
+ "24": {
+  "name": "An-Nur",
+  "primary": "§6",
+  "secondary": [
+   "§5"
+  ],
+  "logics": [
+   "L10",
+   "L2"
+  ]
+ },
+ "25": {
+  "name": "Al-Furqan",
+  "primary": "§0",
+  "secondary": [
+   "§5"
+  ],
+  "logics": [
+   "L4",
+   "L12"
+  ]
+ },
+ "26": {
+  "name": "Ash-Shu'ara'",
+  "primary": "§4",
+  "secondary": [
+   "§1"
+  ],
+  "logics": [
+   "L12",
+   "L1"
+  ]
+ },
+ "27": {
+  "name": "An-Naml",
+  "primary": "§4",
+  "secondary": [
+   "§2"
+  ],
+  "logics": [
+   "L4",
+   "L11"
+  ]
+ },
+ "28": {
+  "name": "Al-Qasas",
+  "primary": "§4",
+  "secondary": [
+   "§5"
+  ],
+  "logics": [
+   "L4",
+   "L14"
+  ]
+ },
+ "29": {
+  "name": "Al-'Ankabut",
+  "primary": "§5",
+  "secondary": [
+   "§2"
+  ],
+  "logics": [
+   "L12",
+   "L4"
+  ]
+ },
+ "30": {
+  "name": "Ar-Rum",
+  "primary": "§2",
+  "secondary": [
+   "§7"
+  ],
+  "logics": [
+   "L10",
+   "L4"
+  ]
+ },
+ "31": {
+  "name": "Luqman",
+  "primary": "§5",
+  "secondary": [
+   "§6"
+  ],
+  "logics": [
+   "L6",
+   "L2"
+  ]
+ },
+ "32": {
+  "name": "As-Sajdah",
+  "primary": "§7",
+  "secondary": [
+   "§2"
+  ],
+  "logics": [
+   "L10",
+   "L8"
+  ]
+ },
+ "33": {
+  "name": "Al-Ahzab",
+  "primary": "§6",
+  "secondary": [
+   "§4"
+  ],
+  "logics": [
+   "L12",
+   "L10"
+  ]
+ },
+ "34": {
+  "name": "Saba'",
+  "primary": "§7",
+  "secondary": [
+   "§4"
+  ],
+  "logics": [
+   "L11",
+   "L1"
+  ]
+ },
+ "35": {
+  "name": "Fatir",
+  "primary": "§2",
+  "secondary": [
+   "§1"
+  ],
+  "logics": [
+   "L11",
+   "L3"
+  ]
+ },
+ "36": {
+  "name": "Ya-Sin",
+  "primary": "§7",
+  "secondary": [
+   "§2"
+  ],
+  "logics": [
+   "L10",
+   "L4"
+  ]
+ },
+ "37": {
+  "name": "As-Saffat",
+  "primary": "§4",
+  "secondary": [
+   "§7"
+  ],
+  "logics": [
+   "L8",
+   "L4"
+  ]
+ },
+ "38": {
+  "name": "Sad",
+  "primary": "§4",
+  "secondary": [
+   "§5"
+  ],
+  "logics": [
+   "L5",
+   "L12"
+  ]
+ },
+ "39": {
+  "name": "Az-Zumar",
+  "primary": "§1",
+  "secondary": [
+   "§7"
+  ],
+  "logics": [
+   "L8",
+   "L7"
+  ]
+ },
+ "40": {
+  "name": "Ghafir",
+  "primary": "§4",
+  "secondary": [
+   "§7"
+  ],
+  "logics": [
+   "L12",
+   "L10"
+  ]
+ },
+ "41": {
+  "name": "Fussilat",
+  "primary": "§2",
+  "secondary": [
+   "§0"
+  ],
+  "logics": [
+   "L10",
+   "L2"
+  ]
+ },
+ "42": {
+  "name": "Ash-Shura",
+  "primary": "§0",
+  "secondary": [
+   "§6"
+  ],
+  "logics": [
+   "L1",
+   "L6"
+  ]
+ },
+ "43": {
+  "name": "Az-Zukhruf",
+  "primary": "§5",
+  "secondary": [
+   "§4"
+  ],
+  "logics": [
+   "L4",
+   "L14"
+  ]
+ },
+ "44": {
+  "name": "Ad-Dukhan",
+  "primary": "§7",
+  "secondary": [
+   "§4"
+  ],
+  "logics": [
+   "L1",
+   "L4"
+  ]
+ },
+ "45": {
+  "name": "Al-Jathiyah",
+  "primary": "§2",
+  "secondary": [
+   "§7"
+  ],
+  "logics": [
+   "L10",
+   "L11"
+  ]
+ },
+ "46": {
+  "name": "Al-Ahqaf",
+  "primary": "§4",
+  "secondary": [
+   "§6"
+  ],
+  "logics": [
+   "L1",
+   "L11"
+  ]
+ },
+ "47": {
+  "name": "Muhammad",
+  "primary": "§6",
+  "secondary": [
+   "§5"
+  ],
+  "logics": [
+   "L1",
+   "L2"
+  ]
+ },
+ "48": {
+  "name": "Al-Fath",
+  "primary": "§4",
+  "secondary": [
+   "§3"
+  ],
+  "logics": [
+   "L4",
+   "L5"
+  ]
+ },
+ "49": {
+  "name": "Al-Hujurat",
+  "primary": "§6",
+  "secondary": [
+   "§5"
+  ],
+  "logics": [
+   "L2",
+   "L10"
+  ]
+ },
+ "50": {
+  "name": "Qaf",
+  "primary": "§7",
+  "secondary": [
+   "§3"
+  ],
+  "logics": [
+   "L10",
+   "L3"
+  ]
+ },
+ "51": {
+  "name": "Adh-Dhariyat",
+  "primary": "§2",
+  "secondary": [
+   "§6"
+  ],
+  "logics": [
+   "L2",
+   "L6"
+  ]
+ },
+ "52": {
+  "name": "At-Tur",
+  "primary": "§7",
+  "secondary": [
+   "§2"
+  ],
+  "logics": [
+   "L8",
+   "L10"
+  ]
+ },
+ "53": {
+  "name": "An-Najm",
+  "primary": "§3",
+  "secondary": [
+   "§7"
+  ],
+  "logics": [
+   "L10",
+   "L3"
+  ]
+ },
+ "54": {
+  "name": "Al-Qamar",
+  "primary": "§4",
+  "secondary": [
+   "§0"
+  ],
+  "logics": [
+   "L1",
+   "L6"
+  ]
+ },
+ "55": {
+  "name": "Ar-Rahman",
+  "primary": "§2",
+  "secondary": [
+   "§7"
+  ],
+  "logics": [
+   "L11",
+   "L8"
+  ]
+ },
+ "56": {
+  "name": "Al-Waqi'ah",
+  "primary": "§7",
+  "secondary": [
+   "§2"
+  ],
+  "logics": [
+   "L8",
+   "L10"
+  ]
+ },
+ "57": {
+  "name": "Al-Hadid",
+  "primary": "§6",
+  "secondary": [
+   "§1"
+  ],
+  "logics": [
+   "L4",
+   "L3"
+  ]
+ },
+ "58": {
+  "name": "Al-Mujadilah",
+  "primary": "§6",
+  "secondary": [
+   "§3"
+  ],
+  "logics": [
+   "L10",
+   "L2"
+  ]
+ },
+ "59": {
+  "name": "Al-Hashr",
+  "primary": "§6",
+  "secondary": [
+   "§1"
+  ],
+  "logics": [
+   "L4",
+   "L1",
+   "L13"
+  ]
+ },
+ "60": {
+  "name": "Al-Mumtahanah",
+  "primary": "§6",
+  "secondary": [
+   "§4"
+  ],
+  "logics": [
+   "L8",
+   "L12"
+  ]
+ },
+ "61": {
+  "name": "As-Saff",
+  "primary": "§6",
+  "secondary": [
+   "§5"
+  ],
+  "logics": [
+   "L2",
+   "L6"
+  ]
+ },
+ "62": {
+  "name": "Al-Jumu'ah",
+  "primary": "§6",
+  "secondary": [
+   "§5"
+  ],
+  "logics": [
+   "L4",
+   "L11"
+  ]
+ },
+ "63": {
+  "name": "Al-Munafiqun",
+  "primary": "§5",
+  "secondary": [
+   "§6"
+  ],
+  "logics": [
+   "L10",
+   "L11"
+  ]
+ },
+ "64": {
+  "name": "At-Taghabun",
+  "primary": "§7",
+  "secondary": [
+   "§3",
+   "§6"
+  ],
+  "logics": [
+   "L7",
+   "L1"
+  ]
+ },
+ "65": {
+  "name": "At-Talaq",
+  "primary": "§6",
+  "secondary": [
+   "§3"
+  ],
+  "logics": [
+   "L7",
+   "L13"
+  ]
+ },
+ "66": {
+  "name": "At-Tahrim",
+  "primary": "§6",
+  "secondary": [
+   "§5"
+  ],
+  "logics": [
+   "L8",
+   "L2"
+  ]
+ },
+ "67": {
+  "name": "Al-Mulk",
+  "primary": "§2",
+  "secondary": [
+   "§7"
+  ],
+  "logics": [
+   "L13",
+   "L10"
+  ]
+ },
+ "68": {
+  "name": "Al-Qalam",
+  "primary": "§5",
+  "secondary": [
+   "§4"
+  ],
+  "logics": [
+   "L1",
+   "L12"
+  ]
+ },
+ "69": {
+  "name": "Al-Haqqah",
+  "primary": "§7",
+  "secondary": [
+   "§10"
+  ],
+  "logics": [
+   "L10",
+   "L8"
+  ]
+ },
+ "70": {
+  "name": "Al-Ma'arij",
+  "primary": "§5",
+  "secondary": [
+   "§7"
+  ],
+  "logics": [
+   "L2",
+   "L11"
+  ]
+ },
+ "71": {
+  "name": "Nuh",
+  "primary": "§4",
+  "secondary": [
+   "§2"
+  ],
+  "logics": [
+   "L12",
+   "L11"
+  ]
+ },
+ "72": {
+  "name": "Al-Jinn",
+  "primary": "§3",
+  "secondary": [
+   "§0"
+  ],
+  "logics": [
+   "L9",
+   "L4"
+  ]
+ },
+ "73": {
+  "name": "Al-Muzzammil",
+  "primary": "§5",
+  "secondary": [
+   "§4"
+  ],
+  "logics": [
+   "L12",
+   "L7"
+  ]
+ },
+ "74": {
+  "name": "Al-Muddaththir",
+  "primary": "§4",
+  "secondary": [
+   "§7"
+  ],
+  "logics": [
+   "L5",
+   "L10"
+  ]
+ },
+ "75": {
+  "name": "Al-Qiyamah",
+  "primary": "§7",
+  "secondary": [
+   "§2"
+  ],
+  "logics": [
+   "L10",
+   "L4"
+  ]
+ },
+ "76": {
+  "name": "Al-Insan",
+  "primary": "§7",
+  "secondary": [
+   "§6"
+  ],
+  "logics": [
+   "L2",
+   "L3"
+  ]
+ },
+ "77": {
+  "name": "Al-Mursalat",
+  "primary": "§7",
+  "secondary": [
+   "§8"
+  ],
+  "logics": [
+   "L8",
+   "L10"
+  ]
+ },
+ "78": {
+  "name": "An-Naba'",
+  "primary": "§7",
+  "secondary": [
+   "§2"
+  ],
+  "logics": [
+   "L10",
+   "L2"
+  ]
+ },
+ "79": {
+  "name": "An-Nazi'at",
+  "primary": "§7",
+  "secondary": [
+   "§4"
+  ],
+  "logics": [
+   "L4",
+   "L1"
+  ]
+ },
+ "80": {
+  "name": "'Abasa",
+  "primary": "§5",
+  "secondary": [
+   "§4"
+  ],
+  "logics": [
+   "L4",
+   "L2"
+  ]
+ },
+ "81": {
+  "name": "At-Takwir",
+  "primary": "§7",
+  "secondary": [
+   "§0"
+  ],
+  "logics": [
+   "L10",
+   "L8"
+  ]
+ },
+ "82": {
+  "name": "Al-Infitar",
+  "primary": "§7",
+  "secondary": [
+   "§5"
+  ],
+  "logics": [
+   "L10",
+   "L11"
+  ]
+ },
+ "83": {
+  "name": "Al-Mutaffifin",
+  "primary": "§6",
+  "secondary": [
+   "§7"
+  ],
+  "logics": [
+   "L1",
+   "L3"
+  ]
+ },
+ "84": {
+  "name": "Al-Inshiqaq",
+  "primary": "§7",
+  "secondary": [
+   "§5"
+  ],
+  "logics": [
+   "L10",
+   "L8"
+  ]
+ },
+ "85": {
+  "name": "Al-Buruj",
+  "primary": "§4",
+  "secondary": [
+   "§7"
+  ],
+  "logics": [
+   "L12",
+   "L1"
+  ]
+ },
+ "86": {
+  "name": "At-Tariq",
+  "primary": "§2",
+  "secondary": [
+   "§7"
+  ],
+  "logics": [
+   "L4",
+   "L10"
+  ]
+ },
+ "87": {
+  "name": "Al-A'la",
+  "primary": "§0",
+  "secondary": [
+   "§5"
+  ],
+  "logics": [
+   "L7",
+   "L4"
+  ]
+ },
+ "88": {
+  "name": "Al-Ghashiyah",
+  "primary": "§7",
+  "secondary": [
+   "§2"
+  ],
+  "logics": [
+   "L8",
+   "L2"
+  ]
+ },
+ "89": {
+  "name": "Al-Fajr",
+  "primary": "§4",
+  "secondary": [
+   "§5"
+  ],
+  "logics": [
+   "L14",
+   "L2",
+   "L1"
+  ]
+ },
+ "90": {
+  "name": "Al-Balad",
+  "primary": "§5",
+  "secondary": [
+   "§6"
+  ],
+  "logics": [
+   "L2",
+   "L3",
+   "L6"
+  ]
+ },
+ "91": {
+  "name": "Ash-Shams",
+  "primary": "§5",
+  "secondary": [
+   "§4"
+  ],
+  "logics": [
+   "L8",
+   "L1"
+  ]
+ },
+ "92": {
+  "name": "Al-Layl",
+  "primary": "§5",
+  "secondary": [
+   "§7"
+  ],
+  "logics": [
+   "L8",
+   "L1"
+  ]
+ },
+ "93": {
+  "name": "Ad-Duha",
+  "primary": "§4",
+  "secondary": [
+   "§5"
+  ],
+  "logics": [
+   "L1",
+   "L12",
+   "L11"
+  ]
+ },
+ "94": {
+  "name": "Ash-Sharh",
+  "primary": "§4",
+  "secondary": [
+   "§5"
+  ],
+  "logics": [
+   "L5",
+   "L6"
+  ]
+ },
+ "95": {
+  "name": "At-Tin",
+  "primary": "§7",
+  "secondary": [
+   "§2"
+  ],
+  "logics": [
+   "L8",
+   "L10"
+  ]
+ },
+ "96": {
+  "name": "Al-'Alaq",
+  "primary": "§0",
+  "secondary": [
+   "§5"
+  ],
+  "logics": [
+   "L6",
+   "L11"
+  ]
+ },
+ "97": {
+  "name": "Al-Qadr",
+  "primary": "§0",
+  "secondary": [
+   "§3"
+  ],
+  "logics": [
+   "L7",
+   "L4"
+  ]
+ },
+ "98": {
+  "name": "Al-Bayyinah",
+  "primary": "§4",
+  "secondary": [
+   "§6"
+  ],
+  "logics": [
+   "L6",
+   "L8"
+  ]
+ },
+ "99": {
+  "name": "Az-Zalzalah",
+  "primary": "§7",
+  "secondary": [],
+  "logics": [
+   "L3",
+   "L10"
+  ]
+ },
+ "100": {
+  "name": "Al-'Adiyat",
+  "primary": "§5",
+  "secondary": [
+   "§7"
+  ],
+  "logics": [
+   "L11",
+   "L10"
+  ]
+ },
+ "101": {
+  "name": "Al-Qari'ah",
+  "primary": "§7",
+  "secondary": [],
+  "logics": [
+   "L4",
+   "L8"
+  ]
+ },
+ "102": {
+  "name": "At-Takathur",
+  "primary": "§5",
+  "secondary": [
+   "§7"
+  ],
+  "logics": [
+   "L11",
+   "L3"
+  ]
+ },
+ "103": {
+  "name": "Al-'Asr",
+  "primary": "§5",
+  "secondary": [
+   "§6"
+  ],
+  "logics": [
+   "L6",
+   "L12"
+  ]
+ },
+ "104": {
+  "name": "Al-Humazah",
+  "primary": "§5",
+  "secondary": [
+   "§7"
+  ],
+  "logics": [
+   "L1",
+   "L11"
+  ]
+ },
+ "105": {
+  "name": "Al-Fil",
+  "primary": "§3",
+  "secondary": [
+   "§4"
+  ],
+  "logics": [
+   "L13",
+   "L4"
+  ]
+ },
+ "106": {
+  "name": "Quraysh",
+  "primary": "§2",
+  "secondary": [
+   "§1"
+  ],
+  "logics": [
+   "L11",
+   "L1"
+  ]
+ },
+ "107": {
+  "name": "Al-Ma'un",
+  "primary": "§6",
+  "secondary": [
+   "§5"
+  ],
+  "logics": [
+   "L2",
+   "L3"
+  ]
+ },
+ "108": {
+  "name": "Al-Kawthar",
+  "primary": "§4",
+  "secondary": [
+   "§6"
+  ],
+  "logics": [
+   "L4"
+  ]
+ },
+ "109": {
+  "name": "Al-Kafirun",
+  "primary": "§1",
+  "secondary": [],
+  "logics": [
+   "L8",
+   "L6"
+  ]
+ },
+ "110": {
+  "name": "An-Nasr",
+  "primary": "§4",
+  "secondary": [
+   "§5"
+  ],
+  "logics": [
+   "L5",
+   "L7"
+  ]
+ },
+ "111": {
+  "name": "Al-Masad",
+  "primary": "§4",
+  "secondary": [
+   "§7"
+  ],
+  "logics": [
+   "L1",
+   "L4"
+  ]
+ },
+ "112": {
+  "name": "Al-Ikhlas",
+  "primary": "§1",
+  "secondary": [],
+  "logics": [
+   "L8"
+  ]
+ },
+ "113": {
+  "name": "Al-Falaq",
+  "primary": "§3",
+  "secondary": [
+   "§5"
+  ],
+  "logics": [
+   "L8",
+   "L9"
+  ],
+  "sharedRowWith": [
+   114
+  ]
+ },
+ "114": {
+  "name": "An-Nas",
+  "primary": "§3",
+  "secondary": [
+   "§5"
+  ],
+  "logics": [
+   "L8",
+   "L9"
+  ],
+  "sharedRowWith": [
+   113
+  ]
+ }
+}
