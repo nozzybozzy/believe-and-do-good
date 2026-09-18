@@ -1,7 +1,8 @@
-.qp { position: fixed; inset: 0; top: 0; background: #000; color: #fff; overflow: hidden; }
+/* The stage fills the viewport below the nav; the Learn-more panel follows it in flow. */
+.qp { position: relative; flex: none; height: calc(100svh - var(--nav-h)); min-height: 520px; background: #000; color: #fff; overflow: hidden; }
 .qp-bg { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: .55; }
 .qp-overlay { position: absolute; inset: 0; background: linear-gradient(to bottom, rgba(0,0,0,.6) 0%, transparent 28%, transparent 50%, rgba(0,0,0,.9) 100%); pointer-events: none; }
-.qp-header { position: absolute; top: 70px; left: 0; padding: 20px 28px; z-index: 10; }
+.qp-header { position: absolute; top: 0; left: 0; padding: 20px 28px; z-index: 10; }
 .qp-snum { font-size: 11px; letter-spacing: 2px; text-transform: uppercase; color: rgba(255,255,255,.5); margin-bottom: 4px; }
 .qp-sar { font-size: 30px; font-weight: 700; line-height: 1.2; text-align: left; direction: ltr; }
 .qp-sen { font-size: 13px; color: rgba(255,255,255,.65); }
@@ -29,3 +30,6 @@
   .qp-english { font-size: 18px; }
   .qp-controls { flex-wrap: wrap; justify-content: center; }
 }
+.qp-translit { font-size: 19px; color: rgba(255,224,130,.72); font-style: italic; line-height: 1.55; max-width: 900px; margin: 0 auto 8px; }
+.qp-upload { font-family: inherit; }
+@media (max-width: 700px) { .qp-translit { font-size: 14px; } }

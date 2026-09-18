@@ -6,3 +6,11 @@ out
 .DS_Store
 reference/*
 !reference/.gitkeep
+__pycache__/
+*.pyc
+
+# typescript incremental build cache
+tsconfig.tsbuildinfo
+
+# generated at build time from data/quran-source.json.gz
+data/search-index.json.gz
