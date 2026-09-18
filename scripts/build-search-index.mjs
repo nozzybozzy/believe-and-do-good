@@ -119,13 +119,20 @@ dirEntries('content/duas', (d, body) => {
     `/duas#${d.slug}`, Number(d.surah || 0), Number(d.ayah_from || 0), bareArabic(String(d.arabic || '')));
 });
 
-// Wisdom — nested one folder per type
-for (const type of ['lesson', 'story', 'quote']) {
+// Wisdom — one folder per type, read from disk so a new type (poem, say)
+// is picked up without touching this script.
+const wisdomRoot = path.join(ROOT, 'content', 'wisdom');
+const wisdomTypes = exists(wisdomRoot)
+  ? fs.readdirSync(wisdomRoot).filter(f => fs.statSync(path.join(wisdomRoot, f)).isDirectory())
+  : [];
+for (const type of wisdomTypes) {
   dirEntries(`content/wisdom/${type}`, (d, body) => {
     push('wisdom', `wisdom:${type}:${d.slug}`, String(d.title || ''),
-      `${d.attribution || ''} ${(d.themes || []).join(' ')} ${body}`, `/wisdom#${d.slug}`);
+      `${type} ${d.slug.replace(/-/g, ' ')} ${d.attribution || ''} ${(d.themes || []).join(' ')} ${body}`,
+      `/wisdom#${d.slug}`);
   });
 }
+console.log('wisdom types indexed:', wisdomTypes.join(', '));
 
 fs.mkdirSync(path.dirname(OUT), { recursive: true });
 // Gzipped: 4.4 MB of JSON becomes about a third of that in the repo and the bundle.

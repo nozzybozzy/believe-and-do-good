@@ -104,8 +104,16 @@ export function search(query: string, opts: { kind?: Kind | null; limit?: number
     }
     if (!ok) continue;
 
-    // A contiguous match of the whole phrase beats scattered terms.
-    if (terms.length > 1 && hay.includes(q)) score += 5;
+    // A contiguous match of the whole phrase is far stronger evidence than the
+    // same words scattered about, and has to outweigh several title-word hits:
+    // searching "poem on debt" should surface the poem called "A Poem on Debt",
+    // not every name of Allah whose title happens to contain "all" and "good".
+    if (terms.length > 1) {
+      if (title.includes(q)) score += 200;
+      else if (hay.includes(q)) score += 60;
+    }
+    // An exact title is the strongest signal there is.
+    if (title === q) score += 500;
 
     const r = rows[i];
     counts[r[0]] = (counts[r[0]] ?? 0) + 1;
