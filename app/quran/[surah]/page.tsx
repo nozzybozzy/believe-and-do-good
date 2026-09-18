@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { getSurahBundle } from '@/lib/quran';
 import { tafsirFor, notesByAyah, readingMinutes } from '@/lib/tafsir';
+import { seerahSnippetsJson } from '@/lib/seerah';
 import TafsirPanel from '@/components/quran/TafsirPanel';
 
 export const revalidate = 86400;
@@ -18,6 +19,7 @@ export default async function SurahPage({ params }: { params: Promise<{ surah: s
 
   const docs = tafsirFor(n);
   const notes = notesByAyah(n);
+  const stories = seerahSnippetsJson(n);
   const intro = docs[0]?.sections.find(s => s.kind === 'intro');
   const summary = docs[docs.length - 1]?.sections.find(s => s.kind === 'summary');
 
@@ -66,6 +68,19 @@ export default async function SurahPage({ params }: { params: Promise<{ surah: s
                 </a>
               );
             })}
+
+            {(stories[a.numberInSurah] ?? []).filter(s => s.first).map(s => (
+              <aside key={s.slug} className="seerah-snippet">
+                <span className="label">Seerah</span>
+                <Link href={`/seerah/${s.slug}`} className="ss-title">{s.title}</Link>
+                <p>{s.snippet}</p>
+              </aside>
+            ))}
+
+            <div className="tools">
+              <Link href={`/quran/${n}/${a.numberInSurah}`} className="btn">Open {n}:{a.numberInSurah}</Link>
+              <Link href={`/player/${n}?ayah=${a.numberInSurah}`} className="btn">▶ Listen</Link>
+            </div>
 
             <TafsirPanel surah={n} ayah={a.numberInSurah} />
           </article>

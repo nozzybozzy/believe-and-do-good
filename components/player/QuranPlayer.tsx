@@ -1,6 +1,6 @@
 'use client';
 import { useEffect, useRef, useState } from 'react';
-import { useRouter } from 'next/navigation';
+import LearnMore from './LearnMore';
 import './player.css';
 
 type Chapter = { id: number; name_arabic: string; name_simple: string; translated_name: { name: string } };
@@ -10,8 +10,7 @@ type Bundle = { chapter: Chapter; audioUrl: string | null; ayahs: Ayah[] };
 const DEFAULT_BG = 'https://images.unsplash.com/photo-1466027397211-20d0f2449a3d?w=1920&q=80';
 const DL_ICON = <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor"><path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"/></svg>;
 
-export default function QuranPlayer({ initialSurah }: { initialSurah: number }) {
-  const router = useRouter();
+export default function QuranPlayer({ initialSurah, initialAyah = 1 }: { initialSurah: number; initialAyah?: number }) {
   const [chapters, setChapters] = useState<Chapter[]>([]);
   const [surah, setSurah] = useState(initialSurah);
   const [bundle, setBundle] = useState<Bundle | null>(null);
@@ -28,6 +27,7 @@ export default function QuranPlayer({ initialSurah }: { initialSurah: number }) 
   const idxRef = useRef(0);
   const bundleRef = useRef<Bundle | null>(null);
   const playingRef = useRef(false);
+  const firstLoad = useRef(true);
 
   useEffect(() => { fetch('/api/quran/chapters').then(r => r.json()).then(setChapters); }, []);
 
@@ -36,7 +36,12 @@ export default function QuranPlayer({ initialSurah }: { initialSurah: number }) 
     setStatus('Loading…'); setBundle(null); setIdx(0); setWordIdx(-1); stop();
     fetch(`/api/quran/${surah}`).then(r => r.json()).then((b: Bundle) => {
       if (!alive) return;
-      setBundle(b); bundleRef.current = b; idxRef.current = 0;
+      // Only the first surah honours ?ayah=; switching surah starts at the top.
+      const start = firstLoad.current
+        ? Math.min(Math.max(1, initialAyah) - 1, b.ayahs.length - 1)
+        : 0;
+      firstLoad.current = false;
+      setBundle(b); bundleRef.current = b; idxRef.current = start; setIdx(start);
       const a = audioRef.current!;
       if (b.audioUrl) { a.src = b.audioUrl; a.load(); }
       setStatus(`${b.chapter.name_simple} · ${b.ayahs.length} ayahs · Saad Al-Ghamdi`);
@@ -44,6 +49,16 @@ export default function QuranPlayer({ initialSurah }: { initialSurah: number }) 
     return () => { alive = false; };
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [surah]);
+
+  // Keep the address bar on the current ayah so links are shareable.
+  // history.replaceState rather than the router: no server round-trip per ayah.
+  useEffect(() => {
+    if (!bundle) return;
+    const url = `/player/${surah}?ayah=${idx + 1}`;
+    if (typeof window !== 'undefined' && window.location.pathname + window.location.search !== url) {
+      window.history.replaceState(null, '', url);
+    }
+  }, [surah, idx, bundle]);
 
   function goTo(i: number) { idxRef.current = i; setIdx(i); setWordIdx(-1); }
 
@@ -159,6 +174,7 @@ export default function QuranPlayer({ initialSurah }: { initialSurah: number }) 
   const ch = bundle?.chapter;
 
   return (
+    <div className="qp-page">
     <div className="qp">
       {bg.type === 'image'
         ? <img ref={bgImgRef} className="qp-bg" src={bg.url} alt="" crossOrigin="anonymous" />
@@ -180,7 +196,7 @@ export default function QuranPlayer({ initialSurah }: { initialSurah: number }) 
       </div>
 
       <div className="qp-controls">
-        <select className="qp-select" value={surah} onChange={e => { const n = parseInt(e.target.value); setSurah(n); router.replace(`/player/${n}`); }}>
+        <select className="qp-select" value={surah} onChange={e => setSurah(parseInt(e.target.value))}>
           {chapters.map(c => <option key={c.id} value={c.id}>{c.id}. {c.name_simple} – {c.name_arabic}</option>)}
         </select>
         <div className="qp-btns">
@@ -197,6 +213,16 @@ export default function QuranPlayer({ initialSurah }: { initialSurah: number }) 
       </div>
       <div className="qp-status">{status}</div>
       <audio ref={audioRef} crossOrigin="anonymous" onEnded={() => { stop(); setStatus('Playback complete'); }} />
+    </div>
+
+    {cur && ch && (
+      <LearnMore
+        surah={ch.id}
+        ayah={cur.numberInSurah}
+        surahName={ch.name_simple}
+        english={cur.english}
+      />
+    )}
     </div>
   );
 }

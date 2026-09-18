@@ -252,3 +252,46 @@ export function notesByAyah(surah: number): Map<number, AyahNote[]> {
 export function readingMinutes(docs: TafsirDoc[]): number {
   return Math.max(1, Math.round(docs.reduce((n, d) => n + d.words, 0) / 230));
 }
+
+// ---------- serialisable views for client components ----------
+
+export type AyahNoteJson = {
+  id: string;
+  heading: string;
+  headingHtml: string;
+  html: string;
+  from: number;
+  to: number;
+  first: boolean;
+};
+
+const dropNum = (s: string) => s.replace(/^\d+\.\s*/, '');
+
+/**
+ * Per-ayah notes as plain JSON, for the player's Learn-more panel.
+ * Keyed by ayah number; `first` marks the ayah a section opens at.
+ */
+export function ayahNotesJson(surah: number): Record<string, AyahNoteJson[]> {
+  const out: Record<string, AyahNoteJson[]> = {};
+  for (const [ayah, list] of notesByAyah(surah)) {
+    out[ayah] = list.map(({ section: s, first }) => {
+      const r = s.ranges.find(x => x.surah === surah && x.from <= ayah && x.to >= ayah)!;
+      return {
+        id: s.id,
+        heading: dropNum(s.heading),
+        headingHtml: dropNum(s.headingHtml),
+        html: s.html,
+        from: r.from,
+        to: r.to,
+        first,
+      };
+    });
+  }
+  return out;
+}
+
+/** The one section that covers an ayah, preferring the one that opens at it. */
+export function sectionForAyah(surah: number, ayah: number): TafsirSection | null {
+  const list = notesByAyah(surah).get(ayah) ?? [];
+  return (list.find(x => x.first) ?? list[0])?.section ?? null;
+}
