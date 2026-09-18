@@ -35,7 +35,7 @@ The surah is bracketed by two journeys: one man taken up through the heavens at 
 
 Ibn Mas'ud said of this surah, together with Al-Kahf and Maryam, that they are among the earliest and most beautiful surahs — and he called them **his treasure**.
 
-A'ishah described the Prophet's ﺺ habit of reciting **Bani Isra'il and Az-Zumar every night**.
+A'ishah described the Prophet's ﷺ habit of reciting **Bani Isra'il and Az-Zumar every night**.
 
 ---
 
@@ -48,13 +48,13 @@ Ibn Kathir takes the ayah word by word before touching a single hadith:
 | Phrase | What it establishes |
 |---|---|
 | **Glorified be He** | Allah glorifies Himself for doing what none but He can do |
-| **His servant** | Muhammad ﺺ — and *'abd* means body and soul together, not soul alone |
+| **His servant** | Muhammad ﷺ — and *'abd* means body and soul together, not soul alone |
 | **by night** | in the depths of the night |
-| **to Al-Masjid Al-Aqsa** | Jerusalem, the home of the Prophets since Ibrahim — where he ﺺ **led them all in prayer, in their own homeland**, proof that he is the greatest of them |
+| **to Al-Masjid Al-Aqsa** | Jerusalem, the home of the Prophets since Ibrahim — where he ﷺ **led them all in prayer, in their own homeland**, proof that he is the greatest of them |
 | **blessed neighbourhood** | its crops and fruits |
 | **All-Hearer, All-Seer** | He hears every servant, believer and disbeliever, and gives each what he deserves |
 
-**The journey itself.** Al-Buraq was brought — a white animal larger than a donkey, smaller than a mule, whose single stride reached the horizon. He ﺺ tethered it at the hitching post of the Prophets, prayed two rak'ahs, and was offered vessels. He chose the milk over the wine, and Jibril said: *You have chosen the Fitrah.* One version adds the warning — had he taken the wine, his Ummah would have gone astray.
+**The journey itself.** Al-Buraq was brought — a white animal larger than a donkey, smaller than a mule, whose single stride reached the horizon. He ﷺ tethered it at the hitching post of the Prophets, prayed two rak'ahs, and was offered vessels. He chose the milk over the wine, and Jibril said: *You have chosen the Fitrah.* One version adds the warning — had he taken the wine, his Ummah would have gone astray.
 
 Then the ascent, heaven by heaven, with the same exchange at every gate — *Who is this? Jibril. Who is with you? Muhammad. Has his Mission started? It has started.* — and in each, a Prophet:
 
@@ -78,7 +78,7 @@ And a voice called out: **My order has been decreed, and I have lightened the bu
 
 **What he saw on the way.** People with copper nails tearing their own faces and chests — *these are those who ate the flesh of the people*, the backbiters. People eating rotten meat, for the same sin. The man who hamstrung Salih's she-camel. Malik, the keeper of Hell, who greeted him first. And Bilal, whose footsteps he heard ahead of him in Paradise.
 
-Asked whether he saw his Lord, he ﺺ answered only: **I saw light — how could I see Him?**
+Asked whether he saw his Lord, he ﷺ answered only: **I saw light — how could I see Him?**
 
 ---
 
@@ -100,7 +100,7 @@ Ibn Kathir also records a striking non-Muslim witness: when Abu Sufyan raised th
 
 ## 4. Musa, and the Grateful Servant (17:2–3)
 
-Allah pairs Muhammad ﺺ with Musa, and the Qur'an with the Tawrah, immediately after the Isra'. The Tawrah was made a guide, with one instruction: *take none other than Me as your Wakil* — you have no protector or god besides Me.
+Allah pairs Muhammad ﷺ with Musa, and the Qur'an with the Tawrah, immediately after the Isra'. The Tawrah was made a guide, with one instruction: *take none other than Me as your Wakil* — you have no protector or god besides Me.
 
 Then: *O offspring of those whom We carried in the ship with Nuh — verily, he was a grateful servant.*
 
@@ -157,7 +157,7 @@ Three principles in one ayah:
 
 Ibn Kathir gathers the hadiths. Four will present their case; each will say what he never received. Allah will take their pledge of obedience and then send word for them to **enter the Fire** — and by the One in Whose Hand is Muhammad's soul, whoever enters it will find it **cool and safe**; whoever refuses will be dragged in.
 
-Alongside these: *every newborn is born upon the Fitrah*, and asked about those who die little, he ﺺ said only, **Allah knows best what they would have done.** Also reported: the children of the Muslims are in Paradise in Ibrahim's care; the children of the idolators too; prophets, martyrs, infants, and the baby girls who were buried alive are in Paradise.
+Alongside these: *every newborn is born upon the Fitrah*, and asked about those who die little, he ﷺ said only, **Allah knows best what they would have done.** Also reported: the children of the Muslims are in Paradise in Ibrahim's care; the children of the idolators too; prophets, martyrs, infants, and the baby girls who were buried alive are in Paradise.
 
 **And then Ibn Kathir counsels silence.** Some of the Salaf — Ibn Abbas among them — disliked discussing this at all, on the hadith: *this Ummah will be fine so long as they do not talk about children and the divine decree.*
 
@@ -194,11 +194,11 @@ The hadiths Ibn Kathir attaches are severe. Jibril came to the Minbar and said *
 
 **Do not kill your children fearing poverty** (31). Allah puts **their** provision before yours in the wording. And in the hadith of the worst sins: rivals set up with Allah; then *to kill your child lest he eat with you*; then adultery with your neighbour's wife.
 
-**Do not come near zina** (32). Not merely *do not commit* — *do not approach*, and nothing that leads to it. The young man who came asking permission to commit it, whom the crowd shouted down and the Prophet ﺺ called closer, and sat down, and asked: *Would you like it for your mother? Your daughter? Your sister? Your paternal aunt? Your maternal aunt?* Each time: *No, by Allah.* Each time: *Neither do people like it for theirs.* Then his hand on the young man's chest — *O Allah, forgive his sin, purify his heart, and guard his chastity* — and after that the young man never looked at anything of that nature again.
+**Do not come near zina** (32). Not merely *do not commit* — *do not approach*, and nothing that leads to it. The young man who came asking permission to commit it, whom the crowd shouted down and the Prophet ﷺ called closer, and sat down, and asked: *Would you like it for your mother? Your daughter? Your sister? Your paternal aunt? Your maternal aunt?* Each time: *No, by Allah.* Each time: *Neither do people like it for theirs.* Then his hand on the young man's chest — *O Allah, forgive his sin, purify his heart, and guard his chastity* — and after that the young man never looked at anything of that nature again.
 
 **Do not kill unjustly** (33). Muslim blood is forbidden except in three cases: a life for a life, the married adulterer, and one who leaves his religion and deserts the community. Where killing is wrongful, the heir is given **authority** — retaliation, blood money, or free pardon — but *let him not exceed limits*: no mutilation, no revenge on anyone but the killer.
 
-**The orphan's property** (34) — approach it only to improve it. Ibn Kathir includes the Prophet's ﺺ advice to Abu Dharr: *I see you are weak; do not take charge of two people, and do not take charge of an orphan's property.*
+**The orphan's property** (34) — approach it only to improve it. Ibn Kathir includes the Prophet's ﷺ advice to Abu Dharr: *I see you are weak; do not take charge of two people, and do not take charge of an orphan's property.*
 
 **Fulfil every covenant** (34) — every promise will be asked about.
 
@@ -208,7 +208,7 @@ The hadiths Ibn Kathir attaches are severe. Jibril came to the Minbar and said *
 
 **Do not walk the earth with conceit** (37). You cannot split the earth by stamping on it, nor grow as tall as the mountains.
 
-**All of it** (38–39): *all the bad aspects of these are hateful to your Lord.* And the closing threat is aimed through the Prophet ﺺ at the Ummah, since he is protected: set up no other god, or be thrown into Hell blamed — by yourself, by Allah, by creation — and cast out.
+**All of it** (38–39): *all the bad aspects of these are hateful to your Lord.* And the closing threat is aimed through the Prophet ﷺ at the Ummah, since he is protected: set up no other god, or be thrown into Hell blamed — by yourself, by Allah, by creation — and cast out.
 
 ---
 
@@ -218,13 +218,13 @@ The hadiths Ibn Kathir attaches are severe. Jibril came to the Minbar and said *
 
 **If there were other gods** (42–43), those gods would themselves be seeking a way to the Lord of the Throne. The intermediary you invent would need an intermediary. So worship Him directly: *you have no need of a deity between you and Him* — He hates it and has forbidden it through every Messenger.
 
-**Everything glorifies Him** (44). *There is not a thing but glorifies His praise, but you understand not their glorification* — you do not understand them because it is not your language. This covers animal, mineral, and plant alike. Ibn Mas'ud: *we used to hear the tasbih of the food as it was being eaten.* And the Prophet ﺺ to men sitting talking on their stationary mounts: *ride them safely and leave them safely — do not use them as chairs, for the one who is ridden may be better than the rider, and may remember Allah more.*
+**Everything glorifies Him** (44). *There is not a thing but glorifies His praise, but you understand not their glorification* — you do not understand them because it is not your language. This covers animal, mineral, and plant alike. Ibn Mas'ud: *we used to hear the tasbih of the food as it was being eaten.* And the Prophet ﷺ to men sitting talking on their stationary mounts: *ride them safely and leave them safely — do not use them as chairs, for the one who is ridden may be better than the rider, and may remember Allah more.*
 
 *He is Ever Forbearing, Oft-Forgiving* — He does not hasten. But: *Allah will let the wrongdoer carry on until, when He seizes him, He never lets him go.*
 
-**The veil** (45–48). Over the hearts of those who reject the Hereafter — *Akinnah* over hearts, deafness in ears — and when Allah is mentioned as One, they turn away in extreme dislike. Asma' bint Abi Bakr's account: when Umm Jamil came hunting for the Prophet ﺺ with a stone pestle in her hand, he recited this ayah, and she stood next to Abu Bakr and could not see him.
+**The veil** (45–48). Over the hearts of those who reject the Hereafter — *Akinnah* over hearts, deafness in ears — and when Allah is mentioned as One, they turn away in extreme dislike. Asma' bint Abi Bakr's account: when Umm Jamil came hunting for the Prophet ﷺ with a stone pestle in her hand, he recited this ayah, and she stood next to Abu Bakr and could not see him.
 
-They called him *bewitched*. And Ibn Ishaq preserves the scene that answers them: **Abu Sufyan, Abu Jahl, and Al-Akhnas bin Shurayq**, each creeping out alone to listen to him ﺺ praying at night, each unaware of the others, meeting on the road at dawn and scolding each other — and doing it again the next night, and the next. Al-Akhnas asked Abu Jahl afterward what he really thought. Abu Jahl's answer had nothing to do with truth:
+They called him *bewitched*. And Ibn Ishaq preserves the scene that answers them: **Abu Sufyan, Abu Jahl, and Al-Akhnas bin Shurayq**, each creeping out alone to listen to him ﷺ praying at night, each unaware of the others, meeting on the road at dawn and scolding each other — and doing it again the next night, and the next. Al-Akhnas asked Abu Jahl afterward what he really thought. Abu Jahl's answer had nothing to do with truth:
 
 > We and Banu 'Abd Manaf competed for honour: they fed people, we fed people; they gave, we gave — until we were neck and neck like race horses. Then they said, *we have a Prophet among us who receives revelation from heaven.* How could we compete with that? By Allah, we will never believe in him.
 
@@ -254,11 +254,11 @@ Ibn Kathir applies it to something as small as a gesture: *no one should point a
 
 The idols you call on **cannot remove harm from you, nor even shift it elsewhere** (56). And those very beings you call on — angels, the Messiah, 'Uzayr, and jinn who later became Muslim while their human worshippers kept worshipping them — are themselves **competing for nearness to their Lord, hoping for His mercy and fearing His punishment** (57). Ibn Kathir notes the pairing: worship is not complete without both. Fear stops you doing the forbidden; hope makes you do more good.
 
-Then the reason Makkah never got its sign (59–60). Quraysh asked him ﺺ to turn As-Safa into gold, to move the mountains, to bring back their dead forefathers. The answer came:
+Then the reason Makkah never got its sign (59–60). Quraysh asked him ﷺ to turn As-Safa into gold, to move the mountains, to bring back their dead forefathers. The answer came:
 
 > If you wish, I will do what they ask — but if they then disbelieve, the punishment will come down upon them, because after the sign is sent there is no room for delay. Or if you wish, I will open for them the gate of repentance and mercy.
 
-He ﺺ said: **Rather, the gate of repentance and mercy.**
+He ﷺ said: **Rather, the gate of repentance and mercy.**
 
 *And We send not the signs except to make them afraid.* Qatadah: Allah frightens people with whatever signs He wills so they may take heed. When Kufah shook, Ibn Mas'ud said, *your Lord is rebuking you — pay heed.* And the eclipse hadith: the sun and moon do not eclipse for anyone's birth or death; Allah uses them to frighten His servants — so pray, call on Him, seek forgiveness.
 
@@ -288,13 +288,13 @@ Then the boundary line: *Verily, over My servants you have no authority. And All
 
 Ships are a mercy — He drives them so you may seek His bounty (66). Then the pattern of human sincerity: at sea, when harm strikes, **everything you worship besides Him vanishes from your heart** (67); safe on land, you turn away.
 
-Ibn Kathir's illustration is perfect: **Ikrimah bin Abi Jahl**, fleeing to Ethiopia after the conquest of Makkah, caught in a storm, hearing the sailors say *none can save you but Allah alone* — and saying to himself, *if none benefits at sea but Allah, then none benefits on land but Allah either.* He vowed that if delivered he would put his hand in Muhammad's ﺺ hand. He was, and he did.
+Ibn Kathir's illustration is perfect: **Ikrimah bin Abi Jahl**, fleeing to Ethiopia after the conquest of Makkah, caught in a storm, hearing the sailors say *none can save you but Allah alone* — and saying to himself, *if none benefits at sea but Allah, then none benefits on land but Allah either.* He vowed that if delivered he would put his hand in Muhammad's ﷺ hand. He was, and he did.
 
 Then the questions (68–69): do you think that stepping onto dry land makes you safe? That the land will not swallow you, that no stone-carrying wind will come, that He will not send you back to sea and drown you?
 
 **And then the honour** (70): *We have honoured the Children of Adam* — created in the best form, walking upright and eating with the hand while other creatures walk on four and eat with their mouths; carried on land and sea; provided with good things; **preferred above many of those We created.** Ibn Kathir notes this ayah indicates preference over the angels also.
 
-**Called by your Imam** (71). Each people summoned by their record of deeds — Ibn Kathir judges this the strongest reading, against "by their Prophet," on the strength of 36:12 and 45:28–29, though the Prophet ﺺ will inevitably be a witness. The one given his record in his right hand *reads it* — out of joy at what is in it.
+**Called by your Imam** (71). Each people summoned by their record of deeds — Ibn Kathir judges this the strongest reading, against "by their Prophet," on the strength of 36:12 and 45:28–29, though the Prophet ﷺ will inevitably be a witness. The one given his record in his right hand *reads it* — out of joy at what is in it.
 
 *And whoever is blind in this world* — blind to the signs and proofs — *will be blind in the Hereafter, and further astray from the path.*
 
@@ -302,7 +302,7 @@ Then the questions (68–69): do you think that stepping onto dry land makes you
 
 ## 16. Protected, Commanded, Promised (17:73–84)
 
-**They nearly tempted you** away from what was revealed, to fabricate something else against Us — and *had We not made you stand firm, you would nearly have inclined to them a little* (73–74). The warning is proportional to the station: had it happened, *a double portion in this life and a double portion after death.* This is Allah advertising His own protection of His Prophet ﺺ.
+**They nearly tempted you** away from what was revealed, to fabricate something else against Us — and *had We not made you stand firm, you would nearly have inclined to them a little* (73–74). The warning is proportional to the station: had it happened, *a double portion in this life and a double portion after death.* This is Allah advertising His own protection of His Prophet ﷺ.
 
 **And they nearly drove you out** (76–77) — but had they, they would not have remained behind him long. Ibn Kathir dates the fulfilment: a year and a half after the Hijrah, Badr, without appointment. And *you will not find any alteration in Our Sunnah* — this is what always happens to a people who expel their Messenger. Were he not the Messenger of Mercy, vengeance unlike anything seen would have come.
 
@@ -310,15 +310,15 @@ Then the questions (68–69): do you think that stepping onto dry land makes you
 
 **Then Tahajjud**, an extra for him specifically, because his sins were already forgiven, whereas for the rest of the Ummah optional prayers expiate.
 
-**Al-Maqam Al-Mahmud** — the station of praise. Ibn Kathir gives the great intercession hadith in full: mankind gathered, the sun brought close, the sweat rising, and the search for someone to intercede. Adam: *my Lord is angry today as never before* — go to Nuh. Nuh: go to Ibrahim. Ibrahim: go to Musa. Musa: go to 'Isa. 'Isa — who mentions no sin at all — says: **go to Muhammad.** And he ﺺ says:
+**Al-Maqam Al-Mahmud** — the station of praise. Ibn Kathir gives the great intercession hadith in full: mankind gathered, the sun brought close, the sweat rising, and the search for someone to intercede. Adam: *my Lord is angry today as never before* — go to Nuh. Nuh: go to Ibrahim. Ibrahim: go to Musa. Musa: go to 'Isa. 'Isa — who mentions no sin at all — says: **go to Muhammad.** And he ﷺ says:
 
 > I will stand and come before the Throne and fall prostrate, and Allah will inspire me with words of praise such as no one has been inspired with before. Then it will be said: *Raise your head. Ask, and it will be granted. Intercede, and your intercession will be accepted.*
 
-Ibn Kathir then adds, in his own voice, the honours reserved for him ﺺ alone: the first for whom the earth opens; the banner under which Adam and everyone gathers; the Hawd; the first whose Ummah is judged; the first across the Bridge; the first to enter Paradise; Al-Wasilah, its highest station, which befits no one else.
+Ibn Kathir then adds, in his own voice, the honours reserved for him ﷺ alone: the first for whom the earth opens; the banner under which Adam and everyone gathers; the Hawd; the first whose Ummah is judged; the first across the Bridge; the first to enter Paradise; Al-Wasilah, its highest station, which befits no one else.
 
 **The du'a of entry and exit** (80), revealed when he was commanded to emigrate: *My Lord, let my entry be good and my exit be good, and grant me from You a helping authority.* Qatadah's note on that last phrase is worth keeping: he knew he could not establish the Book and the laws without authority — *and authority is a mercy Allah places among His servants, otherwise some would attack others and the strong would consume the weak.*
 
-**Truth has come** (81). He ﺺ entered Makkah at the Conquest with three hundred and sixty idols around the House, striking them with a stick in his hand and reciting this ayah.
+**Truth has come** (81). He ﷺ entered Makkah at the Conquest with three hundred and sixty idols around the House, striking them with a stick in his hand and reciting this ayah.
 
 **The Qur'an as cure and mercy** (82) — it removes doubt, hypocrisy, shirk and confusion from the heart. But *it increases the wrongdoers in nothing but loss*. Ibn Kathir is careful about where the fault lies: **the problem is in the disbeliever, not in the Qur'an.**
 
@@ -330,7 +330,7 @@ Ibn Kathir then adds, in his own voice, the honours reserved for him ﺺ alone: 
 
 ## 17. The Ruh, the Challenge, and the Night Behind the Ka'bah (17:85–100)
 
-**The Ruh** (85). The Jews prompted each other to ask; some warned against it. He ﺺ fell silent, and Ibn Mas'ud, standing with him on the farm, knew revelation was coming. The answer: *the Ruh is of the affair of my Lord, and of knowledge you have been given only a little.*
+**The Ruh** (85). The Jews prompted each other to ask; some warned against it. He ﷺ fell silent, and Ibn Mas'ud, standing with him on the farm, knew revelation was coming. The answer: *the Ruh is of the affair of my Lord, and of knowledge you have been given only a little.*
 
 They objected that they had been given the Tawrah, which is *hikmah*, and whoever is given hikmah is given abundant good. The reply came in 31:27 — the trees as pens, the sea as ink with seven more behind it. Whatever knowledge saves you from the Fire is great and good; **measured against Allah's knowledge it is very little.**
 
@@ -346,7 +346,7 @@ Ibn Kathir also relays As-Suhayli on Ruh and Nafs: the Ruh is the origin and ess
 
 They asked next for the mountains moved and rivers made to run and their forefathers resurrected — Qusayy bin Kilab among them, to be cross-examined. Same answer. Then: at least get a treasure and a palace for yourself, so you needn't work the markets like us. Same answer. Then: bring the sky down on us. *That is for Allah to decide.*
 
-Finally Abdullah bin Abi Umayyah, his own cousin, followed him out and told him: even if you climbed a ladder to heaven in front of me and came back with an open book and four angels to testify, **I think I still would not believe you.** He ﺺ went home to his family grieving.
+Finally Abdullah bin Abi Umayyah, his own cousin, followed him out and told him: even if you climbed a ladder to heaven in front of me and came back with an open book and four angels to testify, **I think I still would not believe you.** He ﷺ went home to his family grieving.
 
 Ibn Kathir's comment: had Allah known they were asking in order to be guided, they would have been granted it. He knew they were asking out of stubbornness. And the mercy in the refusal shows in the sequel — several of the men at that gathering, **including Abdullah bin Abi Umayyah**, later became sincere Muslims.
 
@@ -360,13 +360,13 @@ Ibn Kathir's comment: had Allah known they were asking in order to be guided, th
 
 **Musa's nine signs** (101–104) — the staff, the hand, the years of famine, the crop failure, the flood, the locusts, the lice, the frogs, the blood. Fir'awn witnessed every one and called him *bewitched*. The point is made against Quraysh: signs were given in full to a people once before, and they disbelieved anyway.
 
-Fir'awn resolved to drive them out of the land; he was drowned, and the Children of Israel were told to **dwell in the land**. Ibn Kathir reads this as glad tidings of the Conquest of Makkah, revealed in Makkah before the Hijrah — the Prophet's ﺺ people also tried to expel him, and he inherited their city, entered it, and then let them go out of generosity.
+Fir'awn resolved to drive them out of the land; he was drowned, and the Children of Israel were told to **dwell in the land**. Ibn Kathir reads this as glad tidings of the Conquest of Makkah, revealed in Makkah before the Hijrah — the Prophet's ﷺ people also tried to expel him, and he inherited their city, entered it, and then let them go out of generosity.
 
-**Revealed in stages** (105–106). *Faraqnahu* — brought down whole from Al-Lawh Al-Mahfuz to the lowest heaven, then revealed to the Messenger ﺺ piece by piece as events required, over twenty-three years. Or read *Farraqnahu*: revealed ayah by ayah, explained and made clear. *In order that you might recite it to men at intervals* — and *We have revealed it by stages*, little by little.
+**Revealed in stages** (105–106). *Faraqnahu* — brought down whole from Al-Lawh Al-Mahfuz to the lowest heaven, then revealed to the Messenger ﷺ piece by piece as events required, over twenty-three years. Or read *Farraqnahu*: revealed ayah by ayah, explained and made clear. *In order that you might recite it to men at intervals* — and *We have revealed it by stages*, little by little.
 
 **Believe in it or do not believe** (107–109). It is the same; the Qur'an is true in itself. But those who were given knowledge before it — the righteous of the People of the Book who kept their Books undistorted — **fall down on their chins in prostration** when it is recited, saying *Glory to our Lord! The promise of our Lord is fulfilled.* They are thanking Him for letting them live to meet this Messenger. And they fall weeping, *and it increases their humility.*
 
-**The closing** (110–111). An idolator heard him ﺺ saying in prostration *O Most Gracious, O Most Merciful* and complained that he claims to pray to One but prays to two. The answer: *Call upon Allah, or call upon Ar-Rahman — by whichever name you call, to Him belong the Most Beautiful Names.*
+**The closing** (110–111). An idolator heard him ﷺ saying in prostration *O Most Gracious, O Most Merciful* and complained that he claims to pray to One but prays to two. The answer: *Call upon Allah, or call upon Ar-Rahman — by whichever name you call, to Him belong the Most Beautiful Names.*
 
 **Neither loud nor low.** Ibn Abbas explains the balance precisely: not so loud that the idolators hear and insult the Qur'an and the One Who revealed it; not so quiet that your own companions cannot hear it and learn it from you. And in another account: not so quiet that the man listening in secret, hiding from his own people, hears nothing at all — *perhaps he will catch some of it and benefit.*
 
