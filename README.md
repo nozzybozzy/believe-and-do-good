@@ -29,14 +29,18 @@ Open http://localhost:3000
 
 ## Search
 
-There is no database.  builds  —
-6,236 ayahs (Arabic and translation), plus every tafsir note, seerah chapter, name, dua and
-wisdom entry — and  reads it server-side. It runs automatically as , so
-the index can never drift from the content, and a deploy needs no network and no credentials.
+There is no database. `scripts/build-search-index.mjs` builds `data/search-index.json.gz` — 6,236
+ayahs (Arabic and translation), plus every tafsir note, seerah chapter, name, dua and wisdom entry
+— and `/api/search` reads it server-side. It runs automatically as `prebuild`, so the index can
+never drift from the content, and a deploy needs no network and no credentials.
 
-The Qur'an text it indexes is committed as  (0.5 MB) so the rebuild
-is offline. Arabic is indexed with diacritics stripped, so  matches regardless of vowel
-marks. To rebuild by hand after adding content: .
+The Qur'an text it indexes is committed as `data/quran-source.json.gz` (0.5 MB) so the rebuild is
+offline. Arabic is indexed with diacritics stripped, so `القيوم` matches regardless of vowel marks.
+To rebuild by hand after adding content:
+
+```bash
+npm run index:search
+```
 
 ## How the pieces link up
 
